@@ -1,9 +1,13 @@
 ---
-title: "The Relationship Between Air Pollution and Mobility of Individuals Following COVID-19 Related “Shelter-in-Place” Orders"
+title: "ENGR 122 Final Project: Mobility vs Air Quality"
 author: "Anjelica Martinez, Joanna Rashid, Yousif Alnuaimi"
 date: "05/08/2020"
+output: 
+  github_document:
+    keep_html: true
 ---
-### Welcome!
+
+#### Relationship Between Air Pollution and Mobility of Individuals Following COVID-19 Related Shelter-in-Place Orders
 
 This is the project code and data analysis page for our ENGR 122 project. Below you will find links to the notebooks in which did our data preperation and our analyses.
 
