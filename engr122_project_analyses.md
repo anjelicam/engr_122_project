@@ -3,7 +3,7 @@ AQI vs Mobility Project: Data Analyses
 Anjelica Martinez, Joanna Rashid, Yousif Alnuaimi
 05/08/2020
 
--   [The Relationship Between Air Quality and Mobility of Individuals Following COVID-19 Related “Shelter-in-Place” Orders](#the-relationship-between-air-quality-and-mobility-of-individuals-following-covid-19-related-shelter-in-place-orders)
+-   [Introduction](#introduction)
 -   [Exploratory Data Analyses](#exploratory-data-analyses)
 -   [Time Series Plots](#time-series-plots)
     -   [Mobility Over Time](#mobility-over-time)
@@ -23,8 +23,10 @@ libraries("gridExtra", "viridis", "tidyverse", "plotly",
           "hrbrthemes", "htmlwidgets", "ggpubr", "scales")
 ```
 
-The Relationship Between Air Quality and Mobility of Individuals Following COVID-19 Related “Shelter-in-Place” Orders
-=====================================================================================================================
+Introduction
+============
+
+**The Relationship Between Air Quality and Mobility of Individuals Following COVID-19 Related “Shelter-in-Place” Orders**
 
 This notebook contains all the code we used to run our analyses. We used the following statistical tests and tools:
 
@@ -47,7 +49,13 @@ load("../Scripts/data/tidy/tidy_mobility_vs_aqi.RData")
 -   `high_mobility`: counties that decreased mobility 98-100% between Feb. 28 to Mar. 27
 -   `low_mobility`: counties decreased mobility 30% or less between Feb. 28 to Mar. 27
 
-**Variables of Interest** \* `m50`: The median of the max-distance mobility for all samples in the specified region. \* `m50_index`: The percent of normal m50 in the region, with normal m50 defined during 2020-02-17 to 2020-03-07. \* `AQI`: Average air quality index for that day \* `Pollutant names (e.g. Ozone, PM25)`: average daily value \* `main_pollutant`: Represents which pollutant was the main pollutant contributing to AQI
+**Variables of Interest**
+
+-   `m50`: The median of the max-distance mobility for all samples in the specified region.
+-   `m50_index`: The percent of normal m50 in the region, with normal m50 defined during 2020-02-17 to 2020-03-07.
+-   `AQI`: Average air quality index for that day
+-   `Pollutant names (e.g. Ozone, PM25)`: average daily value
+-   `main_pollutant`: Represents which pollutant was the main pollutant contributing to AQI
 
 ``` r
 head(df)

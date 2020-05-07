@@ -19,7 +19,9 @@ libraries("gridExtra", "viridis", "tidyverse", "plotly",
           "hrbrthemes", "htmlwidgets", "ggpubr", "scales")
 ```
 
-# The Relationship Between Air Quality and Mobility of Individuals Following COVID-19 Related “Shelter-in-Place” Orders
+# Introduction
+
+**The Relationship Between Air Quality and Mobility of Individuals Following COVID-19 Related “Shelter-in-Place” Orders**
 
 This notebook contains all the code we used to run our analyses. We used the following statistical tests and tools:
 
@@ -40,6 +42,7 @@ load("../Scripts/data/tidy/tidy_mobility_vs_aqi.RData")
 * `low_mobility`: counties decreased mobility 30% or less between Feb. 28 to Mar. 27
 
 **Variables of Interest**
+
 * `m50`: The median of the max-distance mobility for all samples in the specified region.
 * `m50_index`: The percent of normal m50 in the region, with normal m50 defined during 2020-02-17 to 2020-03-07.
 * `AQI`: Average air quality index for that day
@@ -101,6 +104,7 @@ grid.arrange(high_mobility_plot, low_mobility_plot, ncol = 2)
 ```
 
 ## Air Quality Over Time
+
 Here we plotted the daily average air quality index (`aqi`) for each county from March 1st to April 18th, 2020.
 
 ```{r fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
@@ -146,9 +150,11 @@ grid.arrange(high_mobility_aqi, low_mobility_aqi, ncol = 2)
 ```
 
 # Correlation Analyses
+
 For correlation analysis, we decided to run both a correlation scatterplot with regression and a correlation test.
 
 ## Scatterplot with Regression Line
+
 We used the `ggscatter` to get a visualization of the data for each county. A bonus to using this plot is that it includes the *r* and *p*-values for each county, too.
 
 ```{r correlation scatterplot, fig.height=6, fig.width=16, message=FALSE, warning=FALSE}
@@ -199,6 +205,7 @@ results
 Based on these data the counties with significant results are Harris, weak negative correlation (*r* = -0.35, *p* = .016), Maricopa weak negative correlation(*r* = -0.54, *p* < .001), and New York weak negative correlation (*r* = -.36, *p* = .011). However, each county The other counties results were no significant.
 
 ## Double Y-Axis Plot Time Series of Mobility vs AQI for counties with significant p-values
+
 We ploted a double Y-axis time series plot to see how mobility and aqi changed over time for the three counties with significant findings.
 
 ```{r Mobility & AQI Time Series, fig.height=4, fig.width=12, message=FALSE, warning=FALSE}
@@ -225,6 +232,7 @@ ggplot(sig_counties_values, aes(x = date)) +
   ggtitle("Air Quality Increases as Mobility Decreases")
 ```
 Here are the three counties with significant correlations between mobility and aqi.
+
 ```{r Significant Counties Correlation, fig.height=4, fig.width=15, message=FALSE, warning=FALSE}
 ggscatter(sig_counties_values, x = "aqi", y = "m50_index", color = "county",
           palette = c("#7e03a8", "#cc4678", "#21908c"),

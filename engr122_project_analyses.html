@@ -29,7 +29,7 @@ body {
 <p>Anjelica Martinez, Joanna Rashid, Yousif Alnuaimi<br />
 05/08/2020</p>
 <ul>
-<li><a href="#the-relationship-between-air-quality-and-mobility-of-individuals-following-covid-19-related-shelter-in-place-orders">The Relationship Between Air Quality and Mobility of Individuals Following COVID-19 Related “Shelter-in-Place” Orders</a></li>
+<li><a href="#introduction">Introduction</a></li>
 <li><a href="#exploratory-data-analyses">Exploratory Data Analyses</a></li>
 <li><a href="#time-series-plots">Time Series Plots</a>
 <ul>
@@ -52,7 +52,8 @@ body {
 <span class="kw">library</span>(easypackages)
 <span class="kw">libraries</span>(<span class="st">&quot;gridExtra&quot;</span>, <span class="st">&quot;viridis&quot;</span>, <span class="st">&quot;tidyverse&quot;</span>, <span class="st">&quot;plotly&quot;</span>,
           <span class="st">&quot;hrbrthemes&quot;</span>, <span class="st">&quot;htmlwidgets&quot;</span>, <span class="st">&quot;ggpubr&quot;</span>, <span class="st">&quot;scales&quot;</span>)</code></pre></div>
-<h1 id="the-relationship-between-air-quality-and-mobility-of-individuals-following-covid-19-related-shelter-in-place-orders">The Relationship Between Air Quality and Mobility of Individuals Following COVID-19 Related “Shelter-in-Place” Orders</h1>
+<h1 id="introduction">Introduction</h1>
+<p><strong>The Relationship Between Air Quality and Mobility of Individuals Following COVID-19 Related “Shelter-in-Place” Orders</strong></p>
 <p>This notebook contains all the code we used to run our analyses. We used the following statistical tests and tools:</p>
 <ul>
 <li>Pearson's Product Correlation Test</li>
@@ -68,7 +69,14 @@ body {
 <li><code>high_mobility</code>: counties that decreased mobility 98-100% between Feb. 28 to Mar. 27</li>
 <li><code>low_mobility</code>: counties decreased mobility 30% or less between Feb. 28 to Mar. 27</li>
 </ul>
-<p><strong>Variables of Interest</strong> * <code>m50</code>: The median of the max-distance mobility for all samples in the specified region. * <code>m50_index</code>: The percent of normal m50 in the region, with normal m50 defined during 2020-02-17 to 2020-03-07. * <code>AQI</code>: Average air quality index for that day * <code>Pollutant names (e.g. Ozone, PM25)</code>: average daily value * <code>main_pollutant</code>: Represents which pollutant was the main pollutant contributing to AQI</p>
+<p><strong>Variables of Interest</strong></p>
+<ul>
+<li><code>m50</code>: The median of the max-distance mobility for all samples in the specified region.</li>
+<li><code>m50_index</code>: The percent of normal m50 in the region, with normal m50 defined during 2020-02-17 to 2020-03-07.</li>
+<li><code>AQI</code>: Average air quality index for that day</li>
+<li><code>Pollutant names (e.g. Ozone, PM25)</code>: average daily value</li>
+<li><code>main_pollutant</code>: Represents which pollutant was the main pollutant contributing to AQI</li>
+</ul>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">head</span>(df)</code></pre></div>
 <pre><code>##         date               county   m50 m50_index aqi main_pollutant ozone pm25
 ## 1 2020-03-01            Arlington 3.270        71  37          Ozone    37    .

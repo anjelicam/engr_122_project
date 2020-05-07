@@ -119,7 +119,12 @@ df<span class="op">$</span>date &lt;-<span class="st"> </span><span class="kw">a
 ## 4 2020-03-04 US                     1 Alab~ &quot;&quot;         1  149352 10.1         96
 ## 5 2020-03-05 US                     1 Alab~ &quot;&quot;         1  144109 11.0        104
 ## 6 2020-03-06 US                     1 Alab~ &quot;&quot;         1  141491 13.0        123</code></pre>
-<p>I created three dataframes for easier analysis: * <code>decrease</code>: mobility index values for counties that decreased mobility <em>98-100%</em> between Feb. 28 to Mar. 27 * <code>increase</code>: mobility index values for counties that decreased mobility <em>30% or less</em> between Feb. 28 to Mar. 27 * <code>df</code>: mobility index values for <em>all</em> counties</p>
+<p>I created three dataframes for easier analysis:</p>
+<ul>
+<li><code>decrease</code>: mobility index values for counties that decreased mobility <em>98-100%</em> between Feb. 28 to Mar. 27</li>
+<li><code>increase</code>: mobility index values for counties that decreased mobility <em>30% or less</em> between Feb. 28 to Mar. 27</li>
+<li><code>df</code>: mobility index values for <em>all</em> counties</li>
+</ul>
 <h4 id="decrease-dataframe">Decrease Dataframe</h4>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># Create dataframe that contains counties that decreased mobility 98-100% between Feb. 28 to Mar. 27</span>
 decrease &lt;-<span class="st"> </span>df[(df<span class="op">$</span>county <span class="op">%in%</span><span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;New York County&quot;</span>, <span class="st">&quot;Arlington County&quot;</span>, <span class="st">&quot;San Francisco County&quot;</span>, <span class="st">&quot;Santa Clara County&quot;</span>)), ]</code></pre></div>

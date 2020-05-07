@@ -49,10 +49,13 @@ Most populous counties that decreased mobility **30% or less** between between F
 * San Bernardino County, CA
 
 ## Data Sources
+
 ### Air Quality Data
+
 We collected our air quality data from the [EPA's free API service](https://www.epa.gov/outdoor-air-quality-data/air-quality-index-daily-values-report). From the website, "The AirData Air Quality Index Summary Report displays an annual summary of Air Quality Index (AQI) values for counties or core based statistical areas (CBSA). Air Quality Index is an indicator of overall air quality, because it takes into account all of the criteria air pollutants measured within a geographic area. Although AQI includes all available pollutant measurements, you should be aware that many areas have monitoring stations for some, but not all, of the pollutants." You can read the documentation [here](https://www.epa.gov/outdoor-air-quality-data/about-air-data-reports).
 
 ### Mobility Data
+
 We used the mobility statistics data collected by 
 [Descarte Labs ](https://github.com/descarteslabs/DL-COVID-19). The data represents "the distance a typical member of a given population moves in a day, at the US admin1 (state) and admin2 (county) level)". Follow the link to the github repository to read their documentation.
 
@@ -60,6 +63,7 @@ We used the mobility statistics data collected by
 Because the mobility dataset only has data from March 1st we decided to omit air quality data from the months of January and February. Thus, our analyses only covers from March 1st to April 18th.
 
 ## Data Preparation
+
 ### Mobility Data Prep
 First I cleaned and tidied up the *mobility* index csv file from Decartes Labs.
 
@@ -77,6 +81,7 @@ df <- read.csv("../Scripts/data/messy/us_mobility.csv", stringsAsFactors = FALSE
 ```
 
 I renamed the columns to make it easier to understand what values they represented. I changed `admin1` to `state` and `admin2` to `county`. I then changed the date column from character format to data format.
+
 ```{r}
 # Rename columns
 df <- dplyr::rename(df, state = admin1, county = admin2)
@@ -88,6 +93,7 @@ head(df)
 ```
 
 I created three dataframes for easier analysis:
+
 * `decrease`: mobility index values for counties that decreased mobility *98-100%* between Feb. 28 to Mar. 27
 * `increase`: mobility index values for  counties that decreased mobility *30% or less* between Feb. 28 to Mar. 27
 * `df`: mobility index values for *all* counties
@@ -97,7 +103,9 @@ I created three dataframes for easier analysis:
 # Create dataframe that contains counties that decreased mobility 98-100% between Feb. 28 to Mar. 27
 decrease <- df[(df$county %in% c("New York County", "Arlington County", "San Francisco County", "Santa Clara County")), ]
 ```
+
 The mobility index had a peculiar entry. For Washington, D.C. they had the state listed as Washington D.C and the county column was left blank. I changed the state value to District of Columbia and added the District of Columbia value to all the District of Columbia state entries.
+
 ```{r}
 dc_data<- df[(df$state == "Washington, D.C."), ]
 decrease <- bind_rows(decrease, dc_data)
@@ -111,6 +119,7 @@ decrease[197:245, 5] <- "District of Columbia"
 head(decrease)
 ```
 Because the AQI dataframe excludes the county suffix, I removed the 'county' suffix from all the country entries for cohesiveness and easier analysis.
+
 ```{r}
 # Remove County from county name
 decrease$county <- gsub(" County", "", decrease$county)

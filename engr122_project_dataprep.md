@@ -122,7 +122,11 @@ head(df)
     ## 5 2020-03-05 US                     1 Alab~ ""         1  144109 11.0        104
     ## 6 2020-03-06 US                     1 Alab~ ""         1  141491 13.0        123
 
-I created three dataframes for easier analysis: \* `decrease`: mobility index values for counties that decreased mobility *98-100%* between Feb. 28 to Mar. 27 \* `increase`: mobility index values for counties that decreased mobility *30% or less* between Feb. 28 to Mar. 27 \* `df`: mobility index values for *all* counties
+I created three dataframes for easier analysis:
+
+-   `decrease`: mobility index values for counties that decreased mobility *98-100%* between Feb. 28 to Mar. 27
+-   `increase`: mobility index values for counties that decreased mobility *30% or less* between Feb. 28 to Mar. 27
+-   `df`: mobility index values for *all* counties
 
 #### Decrease Dataframe
 
