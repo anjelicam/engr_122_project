@@ -1,0 +1,111 @@
+Date,Overall AQI Value,Main Pollutant,Site Name (of Overall AQI),Site ID (of Overall AQI),Source (of Overall AQI),Ozone,PM25,County
+1/1/2020,62,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,27,62,Santa Clara
+1/2/2020,40,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,22,40,Santa Clara
+1/3/2020,57,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,31,57,Santa Clara
+1/4/2020,43,PM2.5,Gilroy,06-085-0002,AirNow,31,43,Santa Clara
+1/5/2020,35,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,31,35,Santa Clara
+1/6/2020,41,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,24,41,Santa Clara
+1/7/2020,36,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,23,36,Santa Clara
+1/8/2020,31,Ozone,San Jose - Jackson,06-085-0005,AirNow,31,28,Santa Clara
+1/9/2020,28,Ozone,San Martin,06-085-2006,AirNow,28,24,Santa Clara
+1/10/2020,32,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,21,32,Santa Clara
+1/11/2020,40,PM2.5,San Jose - Jackson,06-085-0005,AirNow,33,40,Santa Clara
+1/12/2020,38,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,31,38,Santa Clara
+1/13/2020,30,Ozone,San Jose - Jackson,06-085-0005,AirNow,30,26,Santa Clara
+1/14/2020,33,Ozone,San Martin,06-085-2006,AirNow,33,27,Santa Clara
+1/15/2020,35,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,33,35,Santa Clara
+1/16/2020,32,Ozone,Los Gatos,06-085-1001,AirNow,32,28,Santa Clara
+1/17/2020,29,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,29,29,Santa Clara
+1/18/2020,55,PM2.5,San Jose - Jackson,06-085-0005,AirNow,20,55,Santa Clara
+1/19/2020,57,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,16,57,Santa Clara
+1/20/2020,63,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,34,63,Santa Clara
+1/21/2020,33,Ozone,Los Gatos,06-085-1001,AirNow,33,25,Santa Clara
+1/22/2020,27,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,23,27,Santa Clara
+1/23/2020,63,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,19,63,Santa Clara
+1/24/2020,51,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,27,51,Santa Clara
+1/25/2020,65,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,26,65,Santa Clara
+1/26/2020,35,Ozone,San Jose - Jackson,06-085-0005,AirNow,35,23,Santa Clara
+1/27/2020,38,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,31,38,Santa Clara
+1/28/2020,43,PM2.5,Gilroy,06-085-0002,AirNow,29,43,Santa Clara
+1/29/2020,45,PM2.5,Gilroy,06-085-0002,AirNow,25,45,Santa Clara
+1/30/2020,41,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,19,41,Santa Clara
+1/31/2020,52,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,19,52,Santa Clara
+2/1/2020,65,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,28,65,Santa Clara
+2/2/2020,38,PM2.5,Gilroy,06-085-0002,AirNow,36,38,Santa Clara
+2/3/2020,34,Ozone,Gilroy,06-085-0002,AirNow,34,16,Santa Clara
+2/4/2020,34,Ozone,San Martin,06-085-2006,AirNow,34,26,Santa Clara
+2/5/2020,28,PM2.5,San Jose - Jackson,06-085-0005,AirNow,27,28,Santa Clara
+2/6/2020,55,PM2.5,San Jose - Jackson,06-085-0005,AirNow,28,55,Santa Clara
+2/7/2020,57,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,31,57,Santa Clara
+2/8/2020,56,PM2.5,Gilroy,06-085-0002,AirNow,29,56,Santa Clara
+2/9/2020,34,Ozone,San Martin,06-085-2006,AirNow,34,20,Santa Clara
+2/10/2020,34,Ozone,San Jose - Jackson,06-085-0005,AirNow,34,23,Santa Clara
+2/11/2020,34,Ozone,San Jose - Jackson,06-085-0005,AirNow,34,26,Santa Clara
+2/12/2020,40,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,31,40,Santa Clara
+2/13/2020,40,PM2.5,Gilroy,06-085-0002,AirNow,35,40,Santa Clara
+2/14/2020,53,PM2.5,Gilroy,06-085-0002,AirNow,29,53,Santa Clara
+2/15/2020,53,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,37,53,Santa Clara
+2/16/2020,38,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,37,38,Santa Clara
+2/17/2020,36,Ozone,San Martin,06-085-2006,AirNow,36,34,Santa Clara
+2/18/2020,38,Ozone,San Martin,06-085-2006,AirNow,38,35,Santa Clara
+2/19/2020,51,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,39,51,Santa Clara
+2/20/2020,56,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,38,56,Santa Clara
+2/21/2020,64,PM2.5,San Jose - Jackson,06-085-0005,AirNow,33,64,Santa Clara
+2/22/2020,50,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,36,50,Santa Clara
+2/23/2020,39,PM2.5,Gilroy,06-085-0002,AirNow,35,39,Santa Clara
+2/24/2020,48,PM2.5,Gilroy,06-085-0002,AirNow,32,48,Santa Clara
+2/25/2020,39,PM2.5,Gilroy,06-085-0002,AirNow,35,39,Santa Clara
+2/26/2020,40,PM2.5,San Jose - Jackson,06-085-0005,AirNow,39,40,Santa Clara
+2/27/2020,59,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,43,59,Santa Clara
+2/28/2020,57,PM2.5,San Jose - Jackson,06-085-0005,AirNow,42,57,Santa Clara
+2/29/2020,42,PM2.5,Gilroy,06-085-0002,AirNow,39,42,Santa Clara
+3/1/2020,36,Ozone,San Jose - Jackson,06-085-0005,AirNow,36,29,Santa Clara
+3/2/2020,39,Ozone,San Martin,06-085-2006,AirNow,39,30,Santa Clara
+3/3/2020,33,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,33,33,Santa Clara
+3/4/2020,47,PM2.5,San Jose - Jackson,06-085-0005,AirNow,43,47,Santa Clara
+3/5/2020,40,PM2.5,San Jose - Jackson,06-085-0005,AirNow,35,40,Santa Clara
+3/6/2020,34,Ozone,San Martin,06-085-2006,AirNow,34,22,Santa Clara
+3/7/2020,31,Ozone,Gilroy,06-085-0002,AirNow,31,21,Santa Clara
+3/8/2020,35,Ozone,Gilroy,06-085-0002,AirNow,35,20,Santa Clara
+3/9/2020,33,Ozone,Gilroy,06-085-0002,AirNow,33,23,Santa Clara
+3/10/2020,31,Ozone,Los Gatos,06-085-1001,AirNow,31,29,Santa Clara
+3/11/2020,36,Ozone,San Jose - Jackson,06-085-0005,AirNow,36,20,Santa Clara
+3/12/2020,47,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,43,47,Santa Clara
+3/13/2020,46,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,36,46,Santa Clara
+3/14/2020,34,Ozone,San Martin,06-085-2006,AirNow,34,33,Santa Clara
+3/15/2020,37,Ozone,Gilroy,06-085-0002,AirNow,37,20,Santa Clara
+3/16/2020,36,Ozone,San Martin,06-085-2006,AirNow,36,18,Santa Clara
+3/17/2020,35,Ozone,Gilroy,06-085-0002,AirNow,35,21,Santa Clara
+3/18/2020,35,Ozone,Gilroy,06-085-0002,AirNow,35,19,Santa Clara
+3/19/2020,37,Ozone,San Martin,06-085-2006,AirNow,37,25,Santa Clara
+3/20/2020,36,Ozone,San Jose - Jackson,06-085-0005,AirNow,36,24,Santa Clara
+3/21/2020,36,Ozone,Gilroy,06-085-0002,AirNow,36,25,Santa Clara
+3/22/2020,33,Ozone,San Jose - Jackson,06-085-0005,AirNow,33,29,Santa Clara
+3/23/2020,37,Ozone,Gilroy,06-085-0002,AirNow,37,27,Santa Clara
+3/24/2020,38,Ozone,Gilroy,06-085-0002,AirNow,38,19,Santa Clara
+3/25/2020,37,Ozone,San Jose - Jackson,06-085-0005,AirNow,37,19,Santa Clara
+3/26/2020,37,Ozone,San Jose - Jackson,06-085-0005,AirNow,37,18,Santa Clara
+3/27/2020,45,Ozone,San Jose - Jackson,06-085-0005,AirNow,45,35,Santa Clara
+3/28/2020,52,PM2.5,San Jose - Jackson,06-085-0005,AirNow,42,52,Santa Clara
+3/29/2020,39,Ozone,San Jose - Jackson,06-085-0005,AirNow,39,23,Santa Clara
+3/30/2020,34,Ozone,San Jose - Jackson,06-085-0005,AirNow,34,15,Santa Clara
+3/31/2020,34,Ozone,Gilroy,06-085-0002,AirNow,34,18,Santa Clara
+4/1/2020,39,Ozone,Gilroy,06-085-0002,AirNow,39,25,Santa Clara
+4/2/2020,38,Ozone,Gilroy,06-085-0002,AirNow,38,24,Santa Clara
+4/3/2020,36,Ozone,San Martin,06-085-2006,AirNow,36,24,Santa Clara
+4/4/2020,30,Ozone,Los Gatos,06-085-1001,AirNow,30,17,Santa Clara
+4/5/2020,33,Ozone,Los Gatos,06-085-1001,AirNow,33,15,Santa Clara
+4/6/2020,37,Ozone,Gilroy,06-085-0002,AirNow,37,21,Santa Clara
+4/7/2020,39,Ozone,Los Gatos,06-085-1001,AirNow,39,20,Santa Clara
+4/8/2020,32,PM2.5,San Jose - Jackson,06-085-0005,AirNow,32,32,Santa Clara
+4/9/2020,32,Ozone,Gilroy,06-085-0002,AirNow,32,15,Santa Clara
+4/10/2020,35,PM2.5,Gilroy,06-085-0002,AirNow,35,35,Santa Clara
+4/11/2020,32,Ozone,Los Gatos,06-085-1001,AirNow,32,27,Santa Clara
+4/12/2020,31,Ozone,Gilroy,06-085-0002,AirNow,31,21,Santa Clara
+4/13/2020,48,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,41,48,Santa Clara
+4/14/2020,47,Ozone,Los Gatos,06-085-1001,AirNow,47,35,Santa Clara
+4/15/2020,45,Ozone,Los Gatos,06-085-1001,AirNow,45,36,Santa Clara
+4/16/2020,32,PM2.5,San Jose - Knox Avenue,06-085-0006,AirNow,27,32,Santa Clara
+4/17/2020,34,Ozone,Gilroy,06-085-0002,AirNow,34,33,Santa Clara
+4/18/2020,36,Ozone,Gilroy,06-085-0002,AirNow,36,25,Santa Clara
+4/19/2020,36,Ozone,San Jose - Jackson,06-085-0005,AirNow,36,28,Santa Clara

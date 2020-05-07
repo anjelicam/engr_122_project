@@ -1,0 +1,108 @@
+Date,Overall AQI Value,Main Pollutant,Site Name (of Overall AQI),Site ID (of Overall AQI),Source (of Overall AQI),Ozone,PM25,County
+1/1/2020,152,PM2.5,Houston East,48-201-1034,AirNow,31,152,Harris
+1/2/2020,40,PM2.5,Houston East,48-201-1034,AirNow,21,40,Harris
+1/3/2020,34,PM2.5,Clinton,48-201-1035,AirNow,23,34,Harris
+1/4/2020,35,PM2.5,Clinton,48-201-1035,AirNow,32,35,Harris
+1/5/2020,42,Ozone,Northwest Harris County,48-201-0029,AirNow,42,35,Harris
+1/6/2020,39,Ozone,Northwest Harris County,48-201-0029,AirNow,39,33,Harris
+1/7/2020,36,Ozone,Northwest Harris County,48-201-0029,AirNow,36,29,Harris
+1/8/2020,48,PM2.5,Clinton,48-201-1035,AirNow,43,48,Harris
+1/9/2020,55,PM2.5,Baytown,48-201-0058,AirNow,39,55,Harris
+1/10/2020,63,PM2.5,Baytown,48-201-0058,AirNow,36,63,Harris
+1/11/2020,27,Ozone,Houston Bayland Park,48-201-0055,AirNow,27,24,Harris
+1/12/2020,40,PM2.5,Houston East,48-201-1034,AirNow,23,40,Harris
+1/13/2020,46,PM2.5,Houston East,48-201-1034,AirNow,18,46,Harris
+1/14/2020,39,PM2.5,Clinton,48-201-1035,AirNow,17,39,Harris
+1/15/2020,41,PM2.5,Clinton,48-201-1035,AirNow,21,41,Harris
+1/16/2020,53,PM2.5,Houston East,48-201-1034,AirNow,21,53,Harris
+1/17/2020,44,PM2.5,Houston East,48-201-1034,AirNow,30,44,Harris
+1/18/2020,26,PM2.5,Clinton,48-201-1035,AirNow,25,26,Harris
+1/19/2020,36,Ozone,Houston Aldine,48-201-0024,AirNow,36,20,Harris
+1/20/2020,36,Ozone,Houston Aldine,48-201-0024,AirNow,36,29,Harris
+1/21/2020,53,PM2.5,Houston East,48-201-1034,AirNow,36,53,Harris
+1/22/2020,38,PM2.5,Baytown,48-201-0058,AirNow,34,38,Harris
+1/23/2020,26,Ozone,Baytown Garth,48-201-1017,AirNow,26,24,Harris
+1/24/2020,37,PM2.5,Clinton,48-201-1035,AirNow,31,37,Harris
+1/25/2020,47,PM2.5,Houston East,48-201-1034,AirNow,38,47,Harris
+1/26/2020,36,Ozone,Houston Bayland Park,48-201-0055,AirNow,36,33,Harris
+1/27/2020,52,PM2.5,Houston East,48-201-1034,AirNow,35,52,Harris
+1/28/2020,31,PM2.5,Houston East,48-201-1034,AirNow,30,31,Harris
+1/29/2020,19,Ozone,Northwest Harris County,48-201-0029,AirNow,19,15,Harris
+1/30/2020,29,PM2.5,Baytown,48-201-0058,AirNow,16,29,Harris
+1/31/2020,90,Ozone,Park Place,48-201-0416,AirNow,90,42,Harris
+2/1/2020,54,PM2.5,Houston East,48-201-1034,AirNow,38,54,Harris
+2/2/2020,46,Ozone,Northwest Harris County,48-201-0029,AirNow,46,33,Harris
+2/3/2020,39,Ozone,Houston Bayland Park,48-201-0055,AirNow,39,26,Harris
+2/4/2020,56,PM2.5,Baytown,48-201-0058,AirNow,36,56,Harris
+2/5/2020,31,PM2.5,Houston East,48-201-1034,AirNow,18,31,Harris
+2/6/2020,35,Ozone,Houston Bayland Park,48-201-0055,AirNow,35,28,Harris
+2/7/2020,55,PM2.5,Clinton,48-201-1035,AirNow,42,55,Harris
+2/8/2020,44,Ozone,Houston Deer Park #2,48-201-1039,AirNow,44,41,Harris
+2/9/2020,46,PM2.5,Baytown,48-201-0058,AirNow,35,46,Harris
+2/10/2020,55,PM2.5,Clinton,48-201-1035,AirNow,21,55,Harris
+2/11/2020,22,PM2.5,Seabrook Friendship Park,48-201-1050,AirNow,7,22,Harris
+2/12/2020,23,PM2.5,Clinton,48-201-1035,AirNow,13,23,Harris
+2/13/2020,31,Ozone,Northwest Harris County,48-201-0029,AirNow,31,21,Harris
+2/14/2020,34,PM2.5,Seabrook Friendship Park,48-201-1050,AirNow,32,34,Harris
+2/15/2020,42,PM2.5,Houston East,48-201-1034,AirNow,34,42,Harris
+2/16/2020,45,PM2.5,Houston East,48-201-1034,AirNow,44,45,Harris
+2/17/2020,52,PM2.5,Baytown,48-201-0058,AirNow,21,52,Harris
+2/18/2020,55,PM2.5,Clinton,48-201-1035,AirNow,22,55,Harris
+2/19/2020,21,PM2.5,Seabrook Friendship Park,48-201-1050,AirNow,16,21,Harris
+2/20/2020,31,Ozone,Houston Aldine,48-201-0024,AirNow,31,16,Harris
+2/21/2020,34,Ozone,Northwest Harris County,48-201-0029,AirNow,34,27,Harris
+2/22/2020,46,Ozone,Houston Bayland Park,48-201-0055,AirNow,46,41,Harris
+2/23/2020,40,Ozone,Baytown Garth,48-201-1017,AirNow,40,36,Harris
+2/24/2020,33,PM2.5,Baytown,48-201-0058,AirNow,32,33,Harris
+2/25/2020,46,Ozone,Houston Bayland Park,48-201-0055,AirNow,46,34,Harris
+2/26/2020,37,Ozone,Northwest Harris County,48-201-0029,AirNow,37,20,Harris
+2/27/2020,41,Ozone,Houston Aldine,48-201-0024,AirNow,41,30,Harris
+3/2/2020,48,PM2.5,Baytown,48-201-0058,AirNow,37,48,Harris
+3/3/2020,55,PM2.5,Houston East,48-201-1034,AirNow,40,55,Harris
+3/4/2020,37,PM2.5,Houston East,48-201-1034,AirNow,35,37,Harris
+3/5/2020,44,Ozone,Houston Bayland Park,48-201-0055,AirNow,44,30,Harris
+3/6/2020,49,Ozone,Houston Bayland Park,48-201-0055,AirNow,49,42,Harris
+3/7/2020,46,PM2.5,Houston East,48-201-1034,AirNow,42,46,Harris
+3/8/2020,47,Ozone,Northwest Harris County,48-201-0029,AirNow,47,28,Harris
+3/9/2020,44,PM2.5,Baytown,48-201-0058,AirNow,37,44,Harris
+3/10/2020,44,PM2.5,Baytown,48-201-0058,AirNow,36,44,Harris
+3/11/2020,38,Ozone,Houston Aldine,48-201-0024,AirNow,38,37,Harris
+3/12/2020,38,PM2.5,Clinton,48-201-1035,AirNow,34,38,Harris
+3/13/2020,42,PM2.5,Baytown,48-201-0058,AirNow,33,42,Harris
+3/14/2020,45,PM2.5,Clinton,48-201-1035,AirNow,32,45,Harris
+3/15/2020,38,Ozone,Northwest Harris County,48-201-0029,AirNow,38,36,Harris
+3/16/2020,41,PM2.5,Houston East,48-201-1034,AirNow,33,41,Harris
+3/17/2020,36,PM2.5,Baytown,48-201-0058,AirNow,31,36,Harris
+3/18/2020,43,PM2.5,Baytown,48-201-0058,AirNow,29,43,Harris
+3/19/2020,65,PM2.5,Clinton,48-201-1035,AirNow,31,65,Harris
+3/20/2020,31,PM2.5,Seabrook Friendship Park,48-201-1050,AirNow,28,31,Harris
+3/21/2020,24,PM2.5,Houston Deer Park #2,48-201-1039,AirNow,9,24,Harris
+3/22/2020,49,PM2.5,Houston Deer Park #2,48-201-1039,AirNow,22,49,Harris
+3/23/2020,55,PM2.5,Baytown,48-201-0058,AirNow,28,55,Harris
+3/24/2020,61,PM2.5,Clinton,48-201-1035,AirNow,31,61,Harris
+3/25/2020,71,PM2.5,Baytown,48-201-0058,AirNow,44,71,Harris
+3/26/2020,60,PM2.5,Baytown,48-201-0058,AirNow,34,60,Harris
+3/27/2020,57,PM2.5,Clinton,48-201-1035,AirNow,34,57,Harris
+3/28/2020,50,PM2.5,Clinton,48-201-1035,AirNow,34,50,Harris
+3/29/2020,71,Ozone,Houston Bayland Park,48-201-0055,AirNow,71,33,Harris
+3/30/2020,54,PM2.5,Baytown,48-201-0058,AirNow,32,54,Harris
+3/31/2020,41,Ozone,Houston Bayland Park,48-201-0055,AirNow,41,30,Harris
+4/1/2020,64,Ozone,Houston Bayland Park,48-201-0055,AirNow,64,28,Harris
+4/2/2020,44,Ozone,Houston Aldine,48-201-0024,AirNow,44,30,Harris
+4/3/2020,46,Ozone,Northwest Harris County,48-201-0029,AirNow,46,39,Harris
+4/4/2020,27,PM2.5,Houston Deer Park #2,48-201-1039,AirNow,27,27,Harris
+4/5/2020,58,PM2.5,Baytown,48-201-0058,AirNow,44,58,Harris
+4/6/2020,54,PM2.5,Houston East,48-201-1034,AirNow,37,54,Harris
+4/7/2020,56,PM2.5,Houston East,48-201-1034,AirNow,29,56,Harris
+4/8/2020,75,PM2.5,Clinton,48-201-1035,AirNow,38,75,Harris
+4/9/2020,67,Ozone,Houston Aldine,48-201-0024,AirNow,67,61,Harris
+4/10/2020,44,Ozone,Houston Bayland Park,48-201-0055,AirNow,44,34,Harris
+4/11/2020,45,Ozone,Northwest Harris County,48-201-0029,AirNow,45,37,Harris
+4/12/2020,66,PM2.5,Baytown,48-201-0058,AirNow,44,66,Harris
+4/13/2020,39,Ozone,Houston Bayland Park,48-201-0055,AirNow,39,27,Harris
+4/14/2020,43,Ozone,Houston Bayland Park,48-201-0055,AirNow,43,25,Harris
+4/15/2020,47,Ozone,Houston Bayland Park,48-201-0055,AirNow,47,29,Harris
+4/16/2020,67,Ozone,Northwest Harris County,48-201-0029,AirNow,67,42,Harris
+4/17/2020,46,PM2.5,Baytown,48-201-0058,AirNow,44,46,Harris
+4/18/2020,49,PM2.5,Houston East,48-201-1034,AirNow,31,49,Harris
+4/19/2020,67,PM2.5,Baytown,48-201-0058,AirNow,31,67,Harris

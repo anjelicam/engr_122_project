@@ -1,0 +1,111 @@
+Date,Overall AQI Value,Main Pollutant,Site Name (of Overall AQI),Site ID (of Overall AQI),Source (of Overall AQI),Ozone,PM25,County
+1/1/2020,74,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,42,74,San Bernardino
+1/2/2020,74,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,40,74,San Bernardino
+1/3/2020,61,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,39,61,San Bernardino
+1/4/2020,80,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,42,80,San Bernardino
+1/5/2020,94,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,42,94,San Bernardino
+1/6/2020,48,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,42,48,San Bernardino
+1/7/2020,53,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,39,53,San Bernardino
+1/8/2020,60,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,39,60,San Bernardino
+1/9/2020,60,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,38,60,San Bernardino
+1/10/2020,65,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,39,65,San Bernardino
+1/11/2020,63,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,39,63,San Bernardino
+1/12/2020,77,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,43,77,San Bernardino
+1/13/2020,78,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,44,78,San Bernardino
+1/14/2020,102,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,46,102,San Bernardino
+1/15/2020,136,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,45,136,San Bernardino
+1/16/2020,98,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,48,98,San Bernardino
+1/17/2020,42,Ozone,Joshua Tree NP - Black Rock,06-071-9002,AQS,42,40,San Bernardino
+1/18/2020,54,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,43,54,San Bernardino
+1/19/2020,54,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,41,54,San Bernardino
+1/20/2020,76,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,40,76,San Bernardino
+1/21/2020,53,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,40,53,San Bernardino
+1/22/2020,67,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,40,67,San Bernardino
+1/23/2020,65,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,40,65,San Bernardino
+1/24/2020,68,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,43,68,San Bernardino
+1/25/2020,76,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,44,76,San Bernardino
+1/26/2020,113,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,46,113,San Bernardino
+1/27/2020,113,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,41,113,San Bernardino
+1/28/2020,58,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,42,58,San Bernardino
+1/29/2020,49,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,44,49,San Bernardino
+1/30/2020,48,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,42,48,San Bernardino
+1/31/2020,53,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,42,53,San Bernardino
+2/1/2020,52,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,47,52,San Bernardino
+2/2/2020,51,Ozone,Redlands,06-071-4003,AirNow,51,48,San Bernardino
+2/3/2020,47,Ozone,Redlands,06-071-4003,AirNow,47,38,San Bernardino
+2/4/2020,45,Ozone,Redlands,06-071-4003,AirNow,45,31,San Bernardino
+2/5/2020,52,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,40,52,San Bernardino
+2/6/2020,70,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,38,70,San Bernardino
+2/7/2020,99,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,41,99,San Bernardino
+2/8/2020,105,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,71,105,San Bernardino
+2/9/2020,56,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,48,56,San Bernardino
+2/10/2020,45,Ozone,Redlands,06-071-4003,AirNow,45,21,San Bernardino
+2/11/2020,48,Ozone,Redlands,06-071-4003,AirNow,48,38,San Bernardino
+2/12/2020,65,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,48,65,San Bernardino
+2/13/2020,72,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,47,72,San Bernardino
+2/14/2020,77,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,54,77,San Bernardino
+2/15/2020,79,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,64,79,San Bernardino
+2/16/2020,105,Ozone,Redlands,06-071-4003,AirNow,105,85,San Bernardino
+2/17/2020,98,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,71,98,San Bernardino
+2/18/2020,85,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,44,85,San Bernardino
+2/19/2020,89,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,54,89,San Bernardino
+2/20/2020,70,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,54,70,San Bernardino
+2/21/2020,55,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,51,55,San Bernardino
+2/22/2020,45,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,45,45,San Bernardino
+2/23/2020,51,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,44,51,San Bernardino
+2/24/2020,73,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,43,73,San Bernardino
+2/25/2020,44,Ozone,Redlands,06-071-4003,AirNow,44,43,San Bernardino
+2/26/2020,47,Ozone,Redlands,06-071-4003,AirNow,47,36,San Bernardino
+2/27/2020,45,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,43,45,San Bernardino
+2/28/2020,52,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,47,52,San Bernardino
+2/29/2020,58,Ozone,Redlands,06-071-4003,AirNow,58,57,San Bernardino
+3/1/2020,47,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,47,47,San Bernardino
+3/2/2020,44,Ozone,Trona - Athol/Telescope #2,06-071-1234,AirNow,44,22,San Bernardino
+3/3/2020,44,Ozone,Redlands,06-071-4003,AirNow,44,30,San Bernardino
+3/4/2020,63,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,45,63,San Bernardino
+3/5/2020,67,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,51,67,San Bernardino
+3/6/2020,74,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,51,74,San Bernardino
+3/7/2020,46,Ozone,Redlands,06-071-4003,AirNow,46,31,San Bernardino
+3/8/2020,46,Ozone,Redlands,06-071-4003,AirNow,46,26,San Bernardino
+3/9/2020,44,Ozone,Barstow,06-071-0001,AirNow,44,32,San Bernardino
+3/10/2020,38,Ozone,Trona - Athol/Telescope #2,06-071-1234,AirNow,38,26,San Bernardino
+3/11/2020,41,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,41,38,San Bernardino
+3/12/2020,41,Ozone,Trona - Athol/Telescope #2,06-071-1234,AirNow,41,40,San Bernardino
+3/13/2020,42,Ozone,Joshua Tree NP - Black Rock,06-071-9002,AirNow,42,31,San Bernardino
+3/14/2020,48,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,48,31,San Bernardino
+3/15/2020,50,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,50,35,San Bernardino
+3/16/2020,46,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,46,37,San Bernardino
+3/17/2020,54,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,54,33,San Bernardino
+3/18/2020,52,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,47,52,San Bernardino
+3/19/2020,48,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,48,35,San Bernardino
+3/20/2020,47,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,47,30,San Bernardino
+3/21/2020,50,Ozone,Redlands,06-071-4003,AirNow,50,37,San Bernardino
+3/22/2020,58,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,58,28,San Bernardino
+3/23/2020,51,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,51,24,San Bernardino
+3/24/2020,54,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,54,34,San Bernardino
+3/25/2020,58,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,58,18,San Bernardino
+3/26/2020,54,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,54,24,San Bernardino
+3/27/2020,54,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,54,38,San Bernardino
+3/28/2020,74,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,74,43,San Bernardino
+3/29/2020,61,Ozone,Redlands,06-071-4003,AirNow,61,52,San Bernardino
+3/30/2020,67,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,67,52,San Bernardino
+3/31/2020,67,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,67,63,San Bernardino
+4/1/2020,101,Ozone,Crestline,06-071-0005,AirNow,101,64,San Bernardino
+4/2/2020,58,Ozone,Barstow,06-071-0001,AirNow,58,53,San Bernardino
+4/3/2020,77,Ozone,Redlands,06-071-4003,AirNow,77,51,San Bernardino
+4/4/2020,67,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,67,48,San Bernardino
+4/5/2020,46,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,46,28,San Bernardino
+4/6/2020,40,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,40,22,San Bernardino
+4/7/2020,41,Ozone,Crestline,06-071-0005,AirNow,41,29,San Bernardino
+4/8/2020,46,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,46,18,San Bernardino
+4/9/2020,44,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,44,18,San Bernardino
+4/10/2020,41,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,41,19,San Bernardino
+4/11/2020,58,Ozone,Redlands,06-071-4003,AirNow,58,45,San Bernardino
+4/12/2020,48,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,48,20,San Bernardino
+4/13/2020,51,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,51,28,San Bernardino
+4/14/2020,56,PM2.5,Ontario-Route 60 Near Road,06-071-0027,AirNow,54,56,San Bernardino
+4/15/2020,84,Ozone,Redlands,06-071-4003,AirNow,84,53,San Bernardino
+4/16/2020,93,Ozone,Redlands,06-071-4003,AirNow,93,54,San Bernardino
+4/17/2020,67,Ozone,Mojave NP & PRES - Kelso Mountains,06-071-1001,AirNow,67,47,San Bernardino
+4/18/2020,44,Ozone,Trona - Athol/Telescope #2,06-071-1234,AirNow,44,43,San Bernardino
+4/19/2020,51,Ozone,Redlands,06-071-4003,AirNow,51,37,San Bernardino

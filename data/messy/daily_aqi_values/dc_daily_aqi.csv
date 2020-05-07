@@ -1,0 +1,111 @@
+Date,Overall AQI Value,Main Pollutant,Site Name (of Overall AQI),Site ID (of Overall AQI),Source (of Overall AQI),Ozone,PM25,County
+1/1/2020,32,Ozone,RIVER TERRACE,11-001-0041,AirNow,32,20,District of Columbia
+1/2/2020,43,PM2.5,Near Road,11-001-0051,AirNow,25,43,District of Columbia
+1/3/2020,39,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,22,39,District of Columbia
+1/4/2020,32,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,25,32,District of Columbia
+1/5/2020,30,Ozone,Takoma Rec Center,11-001-0050,AirNow,30,14,District of Columbia
+1/6/2020,32,Ozone,Takoma Rec Center,11-001-0050,AirNow,32,21,District of Columbia
+1/7/2020,32,PM2.5,RIVER TERRACE,11-001-0041,AirNow,21,32,District of Columbia
+1/8/2020,25,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,19,25,District of Columbia
+1/9/2020,29,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,22,29,District of Columbia
+1/10/2020,30,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,22,30,District of Columbia
+1/11/2020,33,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,31,33,District of Columbia
+1/12/2020,34,Ozone,Takoma Rec Center,11-001-0050,AirNow,34,11,District of Columbia
+1/13/2020,43,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,10,43,District of Columbia
+1/14/2020,53,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,8,53,District of Columbia
+1/15/2020,45,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,18,45,District of Columbia
+1/16/2020,33,Ozone,Takoma Rec Center,11-001-0050,AirNow,33,28,District of Columbia
+1/17/2020,34,Ozone,Takoma Rec Center,11-001-0050,AirNow,34,22,District of Columbia
+1/18/2020,32,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,28,32,District of Columbia
+1/19/2020,31,Ozone,Takoma Rec Center,11-001-0050,AirNow,31,26,District of Columbia
+1/20/2020,38,Ozone,Takoma Rec Center,11-001-0050,AirNow,38,29,District of Columbia
+1/21/2020,38,Ozone,Takoma Rec Center,11-001-0050,AirNow,38,22,District of Columbia
+1/22/2020,45,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,30,45,District of Columbia
+1/23/2020,63,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,12,63,District of Columbia
+1/24/2020,55,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,35,55,District of Columbia
+1/25/2020,33,Ozone,Takoma Rec Center,11-001-0050,AirNow,33,15,District of Columbia
+1/26/2020,27,Ozone,Takoma Rec Center,11-001-0050,AirNow,27,15,District of Columbia
+1/27/2020,32,Ozone,Takoma Rec Center,11-001-0050,AirNow,32,24,District of Columbia
+1/28/2020,31,Ozone,Takoma Rec Center,11-001-0050,AirNow,31,21,District of Columbia
+1/29/2020,33,Ozone,Takoma Rec Center,11-001-0050,AirNow,33,25,District of Columbia
+1/30/2020,35,PM2.5,Near Road,11-001-0051,AirNow,24,35,District of Columbia
+1/31/2020,45,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,20,45,District of Columbia
+2/1/2020,64,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,20,64,District of Columbia
+2/2/2020,41,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,28,41,District of Columbia
+2/3/2020,32,PM2.5,Near Road,11-001-0051,AirNow,27,32,District of Columbia
+2/4/2020,37,PM2.5,Near Road,11-001-0051,AirNow,19,37,District of Columbia
+2/5/2020,35,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,24,35,District of Columbia
+2/6/2020,32,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,16,32,District of Columbia
+2/7/2020,32,Ozone,Takoma Rec Center,11-001-0050,AirNow,32,12,District of Columbia
+2/8/2020,35,Ozone,Takoma Rec Center,11-001-0050,AirNow,35,23,District of Columbia
+2/9/2020,34,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,34,34,District of Columbia
+2/10/2020,33,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,28,33,District of Columbia
+2/11/2020,33,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,29,33,District of Columbia
+2/12/2020,45,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,27,45,District of Columbia
+2/13/2020,29,Ozone,Takoma Rec Center,11-001-0050,AirNow,29,22,District of Columbia
+2/14/2020,32,Ozone,Takoma Rec Center,11-001-0050,AirNow,32,19,District of Columbia
+2/15/2020,32,Ozone,Takoma Rec Center,11-001-0050,AirNow,32,25,District of Columbia
+2/16/2020,40,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,27,40,District of Columbia
+2/17/2020,52,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,32,52,District of Columbia
+2/18/2020,54,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,33,54,District of Columbia
+2/19/2020,34,Ozone,Takoma Rec Center,11-001-0050,AirNow,34,25,District of Columbia
+2/20/2020,33,Ozone,Takoma Rec Center,11-001-0050,AirNow,33,30,District of Columbia
+2/21/2020,35,Ozone,Takoma Rec Center,11-001-0050,AirNow,35,27,District of Columbia
+2/22/2020,38,Ozone,Takoma Rec Center,11-001-0050,AirNow,38,33,District of Columbia
+2/23/2020,51,PM2.5,RIVER TERRACE,11-001-0041,AirNow,40,51,District of Columbia
+2/24/2020,51,PM2.5,Near Road,11-001-0051,AirNow,32,51,District of Columbia
+2/25/2020,40,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,24,40,District of Columbia
+2/26/2020,42,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,27,42,District of Columbia
+2/27/2020,36,Ozone,Takoma Rec Center,11-001-0050,AirNow,36,13,District of Columbia
+2/28/2020,35,Ozone,Takoma Rec Center,11-001-0050,AirNow,35,27,District of Columbia
+2/29/2020,36,Ozone,Takoma Rec Center,11-001-0050,AirNow,36,25,District of Columbia
+3/1/2020,39,Ozone,Takoma Rec Center,11-001-0050,AirNow,39,26,District of Columbia
+3/2/2020,45,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,45,45,District of Columbia
+3/3/2020,39,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,37,39,District of Columbia
+3/4/2020,40,Ozone,Takoma Rec Center,11-001-0050,AirNow,40,14,District of Columbia
+3/5/2020,35,Ozone,Takoma Rec Center,11-001-0050,AirNow,35,32,District of Columbia
+3/6/2020,39,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,31,39,District of Columbia
+3/7/2020,38,Ozone,Takoma Rec Center,11-001-0050,AirNow,38,17,District of Columbia
+3/8/2020,42,Ozone,Takoma Rec Center,11-001-0050,AirNow,42,32,District of Columbia
+3/9/2020,39,Ozone,Takoma Rec Center,11-001-0050,AirNow,39,33,District of Columbia
+3/10/2020,36,Ozone,Takoma Rec Center,11-001-0050,AirNow,36,33,District of Columbia
+3/11/2020,32,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,27,32,District of Columbia
+3/12/2020,43,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,34,43,District of Columbia
+3/13/2020,42,Ozone,Takoma Rec Center,11-001-0050,AirNow,42,29,District of Columbia
+3/14/2020,40,Ozone,Takoma Rec Center,11-001-0050,AirNow,40,20,District of Columbia
+3/15/2020,34,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,34,34,District of Columbia
+3/16/2020,42,Ozone,Takoma Rec Center,11-001-0050,AirNow,42,28,District of Columbia
+3/17/2020,33,Ozone,Takoma Rec Center,11-001-0050,AirNow,33,32,District of Columbia
+3/18/2020,35,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,35,35,District of Columbia
+3/19/2020,53,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,29,53,District of Columbia
+3/20/2020,44,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,34,44,District of Columbia
+3/21/2020,35,Ozone,Takoma Rec Center,11-001-0050,AirNow,35,22,District of Columbia
+3/22/2020,39,Ozone,Takoma Rec Center,11-001-0050,AirNow,39,28,District of Columbia
+3/23/2020,32,Ozone,Takoma Rec Center,11-001-0050,AirNow,32,21,District of Columbia
+3/24/2020,33,Ozone,Takoma Rec Center,11-001-0050,AirNow,33,20,District of Columbia
+3/25/2020,30,Ozone,Takoma Rec Center,11-001-0050,AirNow,30,25,District of Columbia
+3/26/2020,45,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,35,45,District of Columbia
+3/27/2020,42,Ozone,Takoma Rec Center,11-001-0050,AirNow,42,29,District of Columbia
+3/28/2020,36,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,35,36,District of Columbia
+3/29/2020,39,PM2.5,MCMILLAN  NCore-PAMS,11-001-0043,AirNow,25,39,District of Columbia
+3/30/2020,43,Ozone,Takoma Rec Center,11-001-0050,AirNow,43,27,District of Columbia
+3/31/2020,33,Ozone,Takoma Rec Center,11-001-0050,AirNow,33,18,District of Columbia
+4/1/2020,33,Ozone,Takoma Rec Center,11-001-0050,AirNow,33,28,District of Columbia
+4/2/2020,43,Ozone,Takoma Rec Center,11-001-0050,AirNow,43,18,District of Columbia
+4/3/2020,37,Ozone,RIVER TERRACE,11-001-0041,AirNow,37,13,District of Columbia
+4/4/2020,27,Ozone,RIVER TERRACE,11-001-0041,AirNow,27,13,District of Columbia
+4/5/2020,35,Ozone,RIVER TERRACE,11-001-0041,AirNow,35,26,District of Columbia
+4/6/2020,45,Ozone,Takoma Rec Center,11-001-0050,AirNow,45,29,District of Columbia
+4/7/2020,45,PM2.5,Near Road,11-001-0051,AirNow,39,45,District of Columbia
+4/8/2020,44,Ozone,Takoma Rec Center,11-001-0050,AirNow,44,27,District of Columbia
+4/9/2020,44,Ozone,Takoma Rec Center,11-001-0050,AirNow,44,31,District of Columbia
+4/10/2020,38,Ozone,Takoma Rec Center,11-001-0050,AirNow,38,18,District of Columbia
+4/11/2020,43,Ozone,Takoma Rec Center,11-001-0050,AirNow,43,33,District of Columbia
+4/12/2020,43,Ozone,Takoma Rec Center,11-001-0050,AirNow,43,41,District of Columbia
+4/13/2020,39,Ozone,Takoma Rec Center,11-001-0050,AirNow,39,16,District of Columbia
+4/14/2020,41,Ozone,Takoma Rec Center,11-001-0050,AirNow,41,22,District of Columbia
+4/15/2020,43,Ozone,Takoma Rec Center,11-001-0050,AirNow,43,28,District of Columbia
+4/16/2020,44,Ozone,Takoma Rec Center,11-001-0050,AirNow,44,33,District of Columbia
+4/17/2020,43,Ozone,Takoma Rec Center,11-001-0050,AirNow,43,40,District of Columbia
+4/18/2020,41,Ozone,Takoma Rec Center,11-001-0050,AirNow,41,35,District of Columbia
+4/19/2020,43,Ozone,Takoma Rec Center,11-001-0050,AirNow,43,36,District of Columbia

@@ -1,0 +1,108 @@
+Date,Overall AQI Value,Main Pollutant,Site Name (of Overall AQI),Site ID (of Overall AQI),Source (of Overall AQI),Ozone,PM25,County
+1/1/2020,65,PM2.5,Dallas Hinton,48-113-0069,AirNow,31,65,Dallas
+1/2/2020,45,PM2.5,Dallas Hinton,48-113-0069,AirNow,20,45,Dallas
+1/3/2020,35,PM2.5,Dallas Hinton,48-113-0069,AirNow,28,35,Dallas
+1/4/2020,49,PM2.5,Dallas Hinton,48-113-0069,AirNow,32,49,Dallas
+1/5/2020,42,PM2.5,Dallas Hinton,48-113-0069,AirNow,36,42,Dallas
+1/6/2020,46,PM2.5,Dallas Hinton,48-113-0069,AirNow,31,46,Dallas
+1/7/2020,43,PM2.5,Dallas Hinton,48-113-0069,AirNow,24,43,Dallas
+1/8/2020,46,PM2.5,Dallas Hinton,48-113-0069,AirNow,42,46,Dallas
+1/9/2020,34,PM2.5,Dallas Hinton,48-113-0069,AirNow,32,34,Dallas
+1/10/2020,32,PM2.5,Dallas Hinton,48-113-0069,AirNow,28,32,Dallas
+1/11/2020,41,PM2.5,Dallas Hinton,48-113-0069,AirNow,24,41,Dallas
+1/12/2020,47,PM2.5,Dallas Hinton,48-113-0069,AirNow,25,47,Dallas
+1/13/2020,55,PM2.5,Dallas Hinton,48-113-0069,AirNow,23,55,Dallas
+1/14/2020,54,PM2.5,Dallas Hinton,48-113-0069,AirNow,25,54,Dallas
+1/15/2020,44,PM2.5,Dallas Hinton,48-113-0069,AirNow,18,44,Dallas
+1/16/2020,54,PM2.5,Dallas Hinton,48-113-0069,AirNow,19,54,Dallas
+1/17/2020,51,PM2.5,Dallas Hinton,48-113-0069,AirNow,19,51,Dallas
+1/18/2020,31,Ozone,Dallas Redbird Airport Executive,48-113-0087,AirNow,31,23,Dallas
+1/19/2020,36,Ozone,Dallas Redbird Airport Executive,48-113-0087,AirNow,36,32,Dallas
+1/20/2020,42,PM2.5,Dallas Hinton,48-113-0069,AirNow,29,42,Dallas
+1/21/2020,56,PM2.5,Dallas Hinton,48-113-0069,AirNow,27,56,Dallas
+1/22/2020,41,PM2.5,Dallas Hinton,48-113-0069,AirNow,24,41,Dallas
+1/23/2020,24,Ozone,Dallas North #2,48-113-0075,AirNow,24,15,Dallas
+1/24/2020,30,PM2.5,Dallas Hinton,48-113-0069,AirNow,29,30,Dallas
+1/25/2020,39,Ozone,Dallas Redbird Airport Executive,48-113-0087,AirNow,39,38,Dallas
+1/26/2020,32,PM2.5,Dallas Hinton,48-113-0069,AirNow,28,32,Dallas
+1/27/2020,55,PM2.5,Dallas Hinton,48-113-0069,AirNow,24,55,Dallas
+1/28/2020,40,PM2.5,Dallas Hinton,48-113-0069,AirNow,26,40,Dallas
+1/29/2020,26,PM2.5,Dallas Hinton,48-113-0069,AirNow,24,26,Dallas
+1/30/2020,38,PM2.5,Dallas Hinton,48-113-0069,AirNow,21,38,Dallas
+1/31/2020,40,PM2.5,Dallas Hinton,48-113-0069,AirNow,27,40,Dallas
+2/1/2020,50,PM2.5,Dallas Hinton,48-113-0069,AirNow,31,50,Dallas
+2/2/2020,40,Ozone,Dallas Redbird Airport Executive,48-113-0087,AirNow,40,29,Dallas
+2/3/2020,36,Ozone,Dallas Redbird Airport Executive,48-113-0087,AirNow,36,35,Dallas
+2/4/2020,33,PM2.5,Dallas Hinton,48-113-0069,AirNow,25,33,Dallas
+2/5/2020,23,Ozone,Dallas Redbird Airport Executive,48-113-0087,AirNow,23,19,Dallas
+2/6/2020,36,Ozone,Dallas Redbird Airport Executive,48-113-0087,AirNow,36,34,Dallas
+2/7/2020,35,PM2.5,Dallas Hinton,48-113-0069,AirNow,28,35,Dallas
+2/8/2020,44,PM2.5,Dallas Hinton,48-113-0069,AirNow,36,44,Dallas
+2/9/2020,31,PM2.5,Dallas Hinton,48-113-0069,AirNow,31,31,Dallas
+2/10/2020,23,PM2.5,Dallas Hinton,48-113-0069,AirNow,19,23,Dallas
+2/11/2020,41,PM2.5,Dallas Hinton,48-113-0069,AirNow,22,41,Dallas
+2/12/2020,20,Ozone,Dallas North #2,48-113-0075,AirNow,20,17,Dallas
+2/13/2020,32,PM2.5,Dallas Hinton,48-113-0069,AirNow,27,32,Dallas
+2/14/2020,40,PM2.5,Dallas Hinton,48-113-0069,AirNow,30,40,Dallas
+2/15/2020,47,PM2.5,Dallas Hinton,48-113-0069,AirNow,41,47,Dallas
+2/16/2020,44,PM2.5,Dallas Hinton,48-113-0069,AirNow,40,44,Dallas
+2/17/2020,45,PM2.5,Dallas Hinton,48-113-0069,AirNow,27,45,Dallas
+2/18/2020,33,PM2.5,Dallas Hinton,48-113-0069,AirNow,25,33,Dallas
+2/19/2020,38,PM2.5,Dallas Hinton,48-113-0069,AirNow,27,38,Dallas
+2/20/2020,33,PM2.5,Dallas Hinton,48-113-0069,AirNow,32,33,Dallas
+2/21/2020,44,PM2.5,Dallas Hinton,48-113-0069,AirNow,32,44,Dallas
+2/22/2020,45,PM2.5,Dallas Hinton,48-113-0069,AirNow,33,45,Dallas
+2/23/2020,42,PM2.5,Dallas Hinton,48-113-0069,AirNow,30,42,Dallas
+2/24/2020,35,Ozone,Dallas Redbird Airport Executive,48-113-0087,AirNow,35,25,Dallas
+2/25/2020,34,Ozone,Dallas North #2,48-113-0075,AirNow,34,.,Dallas
+2/26/2020,32,Ozone,Dallas Hinton,48-113-0069,AirNow,32,.,Dallas
+2/27/2020,37,Ozone,Dallas North #2,48-113-0075,AirNow,37,35,Dallas
+3/2/2020,50,PM2.5,Dallas Hinton,48-113-0069,AirNow,23,50,Dallas
+3/3/2020,60,PM2.5,Dallas Hinton,48-113-0069,AirNow,22,60,Dallas
+3/4/2020,45,PM2.5,Dallas Hinton,48-113-0069,AirNow,31,45,Dallas
+3/5/2020,38,Ozone,Dallas North #2,48-113-0075,AirNow,38,35,Dallas
+3/6/2020,39,Ozone,Dallas Hinton,48-113-0069,AirNow,39,38,Dallas
+3/7/2020,51,PM2.5,Dallas Hinton,48-113-0069,AirNow,36,51,Dallas
+3/8/2020,54,PM2.5,Dallas Hinton,48-113-0069,AirNow,43,54,Dallas
+3/9/2020,37,PM2.5,Dallas Hinton,48-113-0069,AirNow,32,37,Dallas
+3/10/2020,40,PM2.5,Dallas Hinton,48-113-0069,AirNow,32,40,Dallas
+3/11/2020,55,PM2.5,Dallas Hinton,48-113-0069,AirNow,38,55,Dallas
+3/12/2020,55,PM2.5,Dallas Hinton,48-113-0069,AirNow,31,55,Dallas
+3/13/2020,43,PM2.5,Dallas Hinton,48-113-0069,AirNow,19,43,Dallas
+3/14/2020,38,PM2.5,Dallas Hinton,48-113-0069,AirNow,18,38,Dallas
+3/15/2020,32,PM2.5,Dallas Hinton,48-113-0069,AirNow,17,32,Dallas
+3/16/2020,55,PM2.5,Dallas Hinton,48-113-0069,AirNow,17,55,Dallas
+3/17/2020,71,PM2.5,Dallas Hinton,48-113-0069,AirNow,19,71,Dallas
+3/18/2020,46,PM2.5,Dallas Hinton,48-113-0069,AirNow,25,46,Dallas
+3/19/2020,53,PM2.5,Dallas Hinton,48-113-0069,AirNow,29,53,Dallas
+3/20/2020,28,PM2.5,Dallas Hinton,48-113-0069,AirNow,23,28,Dallas
+3/21/2020,38,PM2.5,Dallas Hinton,48-113-0069,AirNow,23,38,Dallas
+3/22/2020,39,PM2.5,Dallas Hinton,48-113-0069,AirNow,13,39,Dallas
+3/23/2020,53,PM2.5,Dallas Hinton,48-113-0069,AirNow,16,53,Dallas
+3/24/2020,45,Ozone,Dallas Redbird Airport Executive,48-113-0087,AirNow,45,40,Dallas
+3/25/2020,64,Ozone,Dallas North #2,48-113-0075,AirNow,64,54,Dallas
+3/26/2020,65,PM2.5,Dallas Hinton,48-113-0069,AirNow,34,65,Dallas
+3/27/2020,66,PM2.5,Dallas Hinton,48-113-0069,AirNow,37,66,Dallas
+3/28/2020,47,PM2.5,Dallas Hinton,48-113-0069,AirNow,44,47,Dallas
+3/29/2020,40,Ozone,Dallas Redbird Airport Executive,48-113-0087,AirNow,40,38,Dallas
+3/30/2020,40,PM2.5,Dallas Hinton,48-113-0069,AirNow,34,40,Dallas
+3/31/2020,44,Ozone,Dallas Redbird Airport Executive,48-113-0087,AirNow,44,29,Dallas
+4/1/2020,44,Ozone,Dallas Redbird Airport Executive,48-113-0087,AirNow,44,43,Dallas
+4/2/2020,51,PM2.5,Dallas Hinton,48-113-0069,AirNow,37,51,Dallas
+4/3/2020,31,Ozone,Dallas Redbird Airport Executive,48-113-0087,AirNow,31,30,Dallas
+4/4/2020,38,PM2.5,Dallas Hinton,48-113-0069,AirNow,10,38,Dallas
+4/5/2020,52,PM2.5,Dallas Hinton,48-113-0069,AirNow,26,52,Dallas
+4/6/2020,66,PM2.5,Dallas Hinton,48-113-0069,AirNow,30,66,Dallas
+4/7/2020,49,PM2.5,Dallas Hinton,48-113-0069,AirNow,37,49,Dallas
+4/8/2020,55,PM2.5,Dallas Hinton,48-113-0069,AirNow,44,55,Dallas
+4/9/2020,57,PM2.5,Dallas Hinton,48-113-0069,AirNow,43,57,Dallas
+4/10/2020,53,PM2.5,Dallas Hinton,48-113-0069,AirNow,47,53,Dallas
+4/11/2020,53,PM2.5,Dallas Hinton,48-113-0069,AirNow,34,53,Dallas
+4/12/2020,44,Ozone,Dallas Hinton,48-113-0069,AirNow,44,43,Dallas
+4/13/2020,39,Ozone,Dallas Redbird Airport Executive,48-113-0087,AirNow,39,36,Dallas
+4/14/2020,37,Ozone,Dallas Redbird Airport Executive,48-113-0087,AirNow,37,34,Dallas
+4/15/2020,45,Ozone,Dallas Redbird Airport Executive,48-113-0087,AirNow,45,43,Dallas
+4/16/2020,50,Ozone,Dallas Redbird Airport Executive,48-113-0087,AirNow,50,49,Dallas
+4/17/2020,52,PM2.5,Dallas Hinton,48-113-0069,AirNow,38,52,Dallas
+4/18/2020,51,PM2.5,Dallas Hinton,48-113-0069,AirNow,36,51,Dallas
+4/19/2020,57,PM2.5,Dallas Hinton,48-113-0069,AirNow,32,57,Dallas

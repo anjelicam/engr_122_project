@@ -1,0 +1,111 @@
+Date,Overall AQI Value,Main Pollutant,Site Name (of Overall AQI),Site ID (of Overall AQI),Source (of Overall AQI),CO,Ozone,PM10,PM25,County
+1/1/2020,36,PM2.5,Intermediate School 143,36-061-0115,AQS,2,21,.,36,New York
+1/2/2020,56,PM2.5,Intermediate School 143,36-061-0115,AQS,13,12,.,56,New York
+1/3/2020,62,PM2.5,Intermediate School 143,36-061-0115,AQS,13,1,.,62,New York
+1/4/2020,55,PM2.5,CCNY,36-061-0135,AQS,8,24,.,55,New York
+1/5/2020,37,PM2.5,CCNY,36-061-0135,AQS,3,27,.,37,New York
+1/6/2020,47,PM2.5,Intermediate School 143,36-061-0115,AQS,3,15,.,47,New York
+1/7/2020,43,PM2.5,DIVISION STREET,36-061-0134,AQS,6,12,.,43,New York
+1/8/2020,47,PM2.5,Intermediate School 143,36-061-0115,AQS,3,28,.,47,New York
+1/9/2020,43,PM2.5,Intermediate School 143,36-061-0115,AQS,3,22,.,43,New York
+1/10/2020,50,PM2.5,Intermediate School 143,36-061-0115,AQS,5,11,.,50,New York
+1/11/2020,49,PM2.5,CCNY,36-061-0135,AQS,5,28,.,49,New York
+1/12/2020,40,PM2.5,Intermediate School 143,36-061-0115,AQS,3,28,.,40,New York
+1/13/2020,49,PM2.5,DIVISION STREET,36-061-0134,AQS,5,13,.,49,New York
+1/14/2020,53,PM2.5,DIVISION STREET,36-061-0134,AQS,6,4,.,53,New York
+1/15/2020,55,PM2.5,Intermediate School 143,36-061-0115,AQS,6,20,.,55,New York
+1/16/2020,43,PM2.5,Intermediate School 143,36-061-0115,AQS,5,.,.,43,New York
+1/17/2020,37,PM2.5,Intermediate School 143,36-061-0115,AQS,2,30,.,37,New York
+1/18/2020,26,PM2.5,DIVISION STREET,36-061-0134,AQS,5,23,.,26,New York
+1/19/2020,40,PM2.5,Intermediate School 143,36-061-0115,AQS,3,29,.,40,New York
+1/20/2020,30,PM2.5,Intermediate School 143,36-061-0115,AQS,2,30,.,30,New York
+1/21/2020,35,PM2.5,Intermediate School 143,36-061-0115,AQS,2,26,.,35,New York
+1/22/2020,45,PM2.5,DIVISION STREET,36-061-0134,AQS,9,12,.,45,New York
+1/23/2020,67,PM2.5,Intermediate School 143,36-061-0115,AQS,16,6,.,67,New York
+1/24/2020,66,PM2.5,DIVISION STREET,36-061-0134,AQS,13,19,.,66,New York
+1/25/2020,26,Ozone,CCNY,36-061-0135,AirNow,6,26,.,25,New York
+1/26/2020,29,PM2.5,Intermediate School 143,36-061-0115,AQS,7,17,.,29,New York
+1/27/2020,35,PM2.5,Intermediate School 143,36-061-0115,AQS,9,19,.,35,New York
+1/28/2020,30,PM2.5,Intermediate School 143,36-061-0115,AQS,2,29,.,30,New York
+1/29/2020,29,Ozone,CCNY,36-061-0135,AirNow,2,29,.,28,New York
+1/30/2020,37,PM2.5,Intermediate School 143,36-061-0115,AQS,5,22,.,37,New York
+1/31/2020,54,PM2.5,Intermediate School 143,36-061-0115,AQS,7,6,.,54,New York
+2/1/2020,50,PM2.5,DIVISION STREET,36-061-0134,AQS,6,8,.,50,New York
+2/2/2020,44,PM2.5,Intermediate School 143,36-061-0115,AQS,8,20,.,44,New York
+2/3/2020,52,PM2.5,Intermediate School 143,36-061-0115,AQS,9,21,19,52,New York
+2/4/2020,61,PM2.5,Intermediate School 143,36-061-0115,AQS,17,18,.,61,New York
+2/5/2020,23,PM2.5,CCNY,36-061-0135,AQS,11,22,.,23,New York
+2/6/2020,32,PM2.5,DIVISION STREET,36-061-0134,AQS,5,16,.,32,New York
+2/7/2020,30,PM2.5,Intermediate School 143,36-061-0115,AQS,5,29,.,30,New York
+2/8/2020,47,PM2.5,Intermediate School 143,36-061-0115,AQS,6,29,.,47,New York
+2/9/2020,46,PM2.5,Intermediate School 143,36-061-0115,AQS,7,25,13,46,New York
+2/10/2020,39,PM2.5,Intermediate School 143,36-061-0115,AQS,10,24,.,39,New York
+2/11/2020,36,PM2.5,Intermediate School 143,36-061-0115,AQS,10,25,.,36,New York
+2/12/2020,40,PM2.5,DIVISION STREET,36-061-0134,AQS,5,26,.,40,New York
+2/13/2020,34,PM2.5,Intermediate School 143,36-061-0115,AQS,6,23,.,34,New York
+2/14/2020,34,PM2.5,Intermediate School 143,36-061-0115,AQS,3,29,.,34,New York
+2/15/2020,29,PM2.5,Intermediate School 143,36-061-0115,AQS,5,19,.,29,New York
+2/16/2020,45,PM2.5,Intermediate School 143,36-061-0115,AQS,8,16,.,45,New York
+2/17/2020,43,PM2.5,Intermediate School 143,36-061-0115,AQS,7,31,.,43,New York
+2/18/2020,46,PM2.5,IS 45,36-061-0079,AQS,5,23,.,46,New York
+2/19/2020,34,PM2.5,Intermediate School 143,36-061-0115,AQS,5,31,.,34,New York
+2/20/2020,31,Ozone,CCNY,36-061-0135,AQS,2,31,.,28,New York
+2/21/2020,31,Ozone,CCNY,36-061-0135,AQS,7,31,.,24,New York
+2/22/2020,39,PM2.5,Intermediate School 143,36-061-0115,AQS,8,26,.,39,New York
+2/23/2020,48,PM2.5,DIVISION STREET,36-061-0134,AQS,10,31,.,48,New York
+2/24/2020,61,PM2.5,IS 45,36-061-0079,AQS,10,24,.,61,New York
+2/25/2020,45,PM2.5,Intermediate School 143,36-061-0115,AQS,9,22,.,45,New York
+2/26/2020,31,Ozone,CCNY,36-061-0135,AQS,5,31,.,27,New York
+2/27/2020,33,Ozone,CCNY,36-061-0135,AQS,3,33,.,20,New York
+2/28/2020,31,Ozone,CCNY,36-061-0135,AQS,3,31,.,30,New York
+2/29/2020,31,Ozone,CCNY,36-061-0135,AQS,3,31,.,30,New York
+3/1/2020,35,Ozone,CCNY,36-061-0135,AirNow,2,35,.,.,New York
+3/2/2020,31,Ozone,CCNY,36-061-0135,AirNow,.,31,.,.,New York
+3/3/2020,29,Ozone,CCNY,36-061-0135,AirNow,.,29,.,.,New York
+3/4/2020,35,Ozone,CCNY,36-061-0135,AirNow,.,35,.,.,New York
+3/5/2020,30,Ozone,CCNY,36-061-0135,AirNow,.,30,.,.,New York
+3/6/2020,27,Ozone,CCNY,36-061-0135,AirNow,.,27,.,.,New York
+3/7/2020,34,Ozone,CCNY,36-061-0135,AirNow,.,34,.,.,New York
+3/8/2020,31,Ozone,CCNY,36-061-0135,AirNow,.,31,.,.,New York
+3/9/2020,34,Ozone,CCNY,36-061-0135,AirNow,.,34,.,.,New York
+3/10/2020,28,Ozone,CCNY,36-061-0135,AirNow,.,28,.,.,New York
+3/11/2020,28,Ozone,CCNY,36-061-0135,AirNow,.,28,.,.,New York
+3/12/2020,19,Ozone,CCNY,36-061-0135,AirNow,.,19,.,.,New York
+3/13/2020,38,Ozone,CCNY,36-061-0135,AirNow,.,38,.,.,New York
+3/14/2020,32,Ozone,CCNY,36-061-0135,AirNow,.,32,.,.,New York
+3/15/2020,35,Ozone,CCNY,36-061-0135,AirNow,.,35,.,.,New York
+3/16/2020,31,Ozone,CCNY,36-061-0135,AirNow,.,31,.,.,New York
+3/17/2020,24,Ozone,CCNY,36-061-0135,AirNow,.,24,.,.,New York
+3/18/2020,31,Ozone,CCNY,36-061-0135,AirNow,.,31,.,.,New York
+3/19/2020,26,Ozone,CCNY,36-061-0135,AirNow,.,26,.,.,New York
+3/20/2020,34,Ozone,CCNY,36-061-0135,AirNow,.,34,.,.,New York
+3/21/2020,36,Ozone,CCNY,36-061-0135,AirNow,.,36,.,.,New York
+3/22/2020,36,Ozone,CCNY,36-061-0135,AirNow,.,36,.,.,New York
+3/23/2020,29,Ozone,CCNY,36-061-0135,AirNow,.,29,.,.,New York
+3/24/2020,34,Ozone,CCNY,36-061-0135,AirNow,.,34,.,.,New York
+3/25/2020,31,Ozone,CCNY,36-061-0135,AirNow,.,31,.,.,New York
+3/26/2020,31,Ozone,CCNY,36-061-0135,AirNow,.,31,.,.,New York
+3/27/2020,39,Ozone,CCNY,36-061-0135,AirNow,.,39,.,.,New York
+3/28/2020,38,Ozone,CCNY,36-061-0135,AirNow,.,38,.,.,New York
+3/29/2020,38,Ozone,CCNY,36-061-0135,AirNow,.,38,.,.,New York
+3/30/2020,26,Ozone,CCNY,36-061-0135,AirNow,.,26,.,.,New York
+3/31/2020,32,Ozone,CCNY,36-061-0135,AirNow,.,32,.,.,New York
+4/1/2020,38,Ozone,CCNY,36-061-0135,AirNow,.,38,.,.,New York
+4/2/2020,35,Ozone,CCNY,36-061-0135,AirNow,.,35,.,.,New York
+4/3/2020,28,Ozone,CCNY,36-061-0135,AirNow,.,28,.,.,New York
+4/4/2020,33,Ozone,CCNY,36-061-0135,AirNow,.,33,.,.,New York
+4/5/2020,24,Ozone,CCNY,36-061-0135,AirNow,.,24,.,.,New York
+4/6/2020,37,Ozone,CCNY,36-061-0135,AirNow,.,37,.,.,New York
+4/7/2020,43,Ozone,CCNY,36-061-0135,AirNow,.,43,.,.,New York
+4/8/2020,34,Ozone,CCNY,36-061-0135,AirNow,.,34,.,.,New York
+4/9/2020,40,Ozone,CCNY,36-061-0135,AirNow,.,40,.,.,New York
+4/10/2020,33,Ozone,CCNY,36-061-0135,AirNow,.,33,.,.,New York
+4/11/2020,40,Ozone,CCNY,36-061-0135,AirNow,.,40,.,.,New York
+4/12/2020,42,Ozone,CCNY,36-061-0135,AirNow,.,42,.,.,New York
+4/13/2020,40,Ozone,CCNY,36-061-0135,AirNow,.,40,.,.,New York
+4/14/2020,40,Ozone,CCNY,36-061-0135,AirNow,.,40,.,.,New York
+4/15/2020,40,Ozone,CCNY,36-061-0135,AirNow,.,40,.,.,New York
+4/16/2020,37,Ozone,CCNY,36-061-0135,AirNow,.,37,.,.,New York
+4/17/2020,38,Ozone,CCNY,36-061-0135,AirNow,.,38,.,.,New York
+4/18/2020,33,Ozone,CCNY,36-061-0135,AirNow,.,33,.,.,New York
+4/19/2020,46,Ozone,CCNY,36-061-0135,AirNow,.,46,.,.,New York

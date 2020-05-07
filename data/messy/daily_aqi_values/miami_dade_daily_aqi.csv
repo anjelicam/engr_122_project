@@ -1,0 +1,103 @@
+Date,Overall AQI Value,Main Pollutant,Site Name (of Overall AQI),Site ID (of Overall AQI),Source (of Overall AQI),Ozone,PM25,County
+1/1/2020,80,PM2.5,Miami Fire Station,12-086-1016,AirNow,49,80,Miami-Dade
+1/2/2020,45,PM2.5,KENDALL,12-086-0034,AirNow,44,45,Miami-Dade
+1/3/2020,28,PM2.5,KENDALL,12-086-0034,AirNow,26,28,Miami-Dade
+1/4/2020,32,Ozone,Rosenstiel,12-086-0027,AirNow,32,30,Miami-Dade
+1/5/2020,39,Ozone,Perdue,12-086-0029,AirNow,39,27,Miami-Dade
+1/6/2020,40,Ozone,Rosenstiel,12-086-0027,AirNow,40,25,Miami-Dade
+1/7/2020,42,Ozone,Rosenstiel,12-086-0027,AirNow,42,32,Miami-Dade
+1/8/2020,44,Ozone,Rosenstiel,12-086-0027,AirNow,44,34,Miami-Dade
+1/9/2020,44,Ozone,Rosenstiel,12-086-0027,AirNow,44,38,Miami-Dade
+1/10/2020,52,PM2.5,Miami Fire Station,12-086-1016,AirNow,37,52,Miami-Dade
+1/11/2020,53,PM2.5,Miami Fire Station,12-086-1016,AirNow,31,53,Miami-Dade
+1/12/2020,54,PM2.5,Miami Fire Station,12-086-1016,AirNow,33,54,Miami-Dade
+1/13/2020,48,PM2.5,Miami Fire Station,12-086-1016,AirNow,34,48,Miami-Dade
+1/14/2020,46,PM2.5,Miami Fire Station,12-086-1016,AirNow,36,46,Miami-Dade
+1/15/2020,38,Ozone,Rosenstiel,12-086-0027,AirNow,38,29,Miami-Dade
+1/16/2020,39,Ozone,Perdue,12-086-0029,AirNow,39,29,Miami-Dade
+1/17/2020,41,Ozone,Rosenstiel,12-086-0027,AirNow,41,37,Miami-Dade
+1/18/2020,44,PM2.5,Miami Fire Station,12-086-1016,AirNow,41,44,Miami-Dade
+1/19/2020,40,Ozone,Rosenstiel,12-086-0027,AirNow,40,33,Miami-Dade
+1/20/2020,38,Ozone,Rosenstiel,12-086-0027,AirNow,38,37,Miami-Dade
+1/21/2020,47,PM2.5,Miami Fire Station,12-086-1016,AirNow,39,47,Miami-Dade
+1/22/2020,53,PM2.5,Miami Fire Station,12-086-1016,AirNow,38,53,Miami-Dade
+1/23/2020,38,PM2.5,Miami Fire Station,12-086-1016,AirNow,36,38,Miami-Dade
+1/25/2020,53,PM2.5,Miami Fire Station,12-086-1016,AirNow,36,53,Miami-Dade
+1/26/2020,48,Ozone,Rosenstiel,12-086-0027,AirNow,48,32,Miami-Dade
+1/27/2020,43,PM2.5,KENDALL,12-086-0034,AirNow,39,43,Miami-Dade
+1/28/2020,48,PM2.5,KENDALL,12-086-0034,AirNow,44,48,Miami-Dade
+1/29/2020,36,Ozone,Rosenstiel,12-086-0027,AirNow,36,35,Miami-Dade
+1/30/2020,44,Ozone,Rosenstiel,12-086-0027,AirNow,44,39,Miami-Dade
+1/31/2020,45,Ozone,Rosenstiel,12-086-0027,AirNow,45,42,Miami-Dade
+2/1/2020,31,Ozone,Rosenstiel,12-086-0027,AirNow,31,25,Miami-Dade
+2/2/2020,38,PM2.5,Miami Fire Station,12-086-1016,AirNow,34,38,Miami-Dade
+2/3/2020,49,Ozone,Rosenstiel,12-086-0027,AirNow,49,35,Miami-Dade
+2/4/2020,45,Ozone,Rosenstiel,12-086-0027,AirNow,45,40,Miami-Dade
+2/5/2020,37,Ozone,Rosenstiel,12-086-0027,AirNow,37,28,Miami-Dade
+2/6/2020,45,PM2.5,Miami Fire Station,12-086-1016,AirNow,31,45,Miami-Dade
+2/7/2020,45,PM2.5,KENDALL,12-086-0034,AirNow,31,45,Miami-Dade
+2/8/2020,41,Ozone,Perdue,12-086-0029,AirNow,41,36,Miami-Dade
+2/9/2020,41,Ozone,Rosenstiel,12-086-0027,AirNow,41,29,Miami-Dade
+2/10/2020,36,PM2.5,Miami Fire Station,12-086-1016,AirNow,33,36,Miami-Dade
+2/11/2020,36,PM2.5,Miami Fire Station,12-086-1016,AirNow,28,36,Miami-Dade
+2/12/2020,40,PM2.5,Miami Fire Station,12-086-1016,AirNow,27,40,Miami-Dade
+2/13/2020,60,PM2.5,KENDALL,12-086-0034,AirNow,31,60,Miami-Dade
+2/14/2020,51,PM2.5,KENDALL,12-086-0034,AirNow,28,51,Miami-Dade
+2/15/2020,32,Ozone,Rosenstiel,12-086-0027,AirNow,32,28,Miami-Dade
+2/16/2020,31,Ozone,Rosenstiel,12-086-0027,AirNow,31,26,Miami-Dade
+2/17/2020,33,PM2.5,KENDALL,12-086-0034,AirNow,26,33,Miami-Dade
+2/18/2020,31,PM2.5,KENDALL,12-086-0034,AirNow,26,31,Miami-Dade
+2/19/2020,30,PM2.5,KENDALL,12-086-0034,AirNow,24,30,Miami-Dade
+2/20/2020,32,PM2.5,Miami Fire Station,12-086-1016,AirNow,21,32,Miami-Dade
+2/21/2020,31,Ozone,Perdue,12-086-0029,AirNow,31,24,Miami-Dade
+2/22/2020,42,Ozone,Rosenstiel,12-086-0027,AirNow,42,30,Miami-Dade
+2/23/2020,44,Ozone,Rosenstiel,12-086-0027,AirNow,44,20,Miami-Dade
+2/24/2020,41,Ozone,Perdue,12-086-0029,AirNow,41,24,Miami-Dade
+2/25/2020,40,Ozone,Rosenstiel,12-086-0027,AirNow,40,36,Miami-Dade
+2/26/2020,36,PM2.5,KENDALL,12-086-0034,AirNow,31,36,Miami-Dade
+2/27/2020,46,PM2.5,KENDALL,12-086-0034,AirNow,42,46,Miami-Dade
+2/28/2020,45,Ozone,Rosenstiel,12-086-0027,AirNow,45,40,Miami-Dade
+2/29/2020,49,Ozone,Rosenstiel,12-086-0027,AirNow,49,43,Miami-Dade
+3/1/2020,47,Ozone,Rosenstiel,12-086-0027,AirNow,47,30,Miami-Dade
+3/2/2020,45,Ozone,Rosenstiel,12-086-0027,AirNow,45,33,Miami-Dade
+3/3/2020,44,PM2.5,KENDALL,12-086-0034,AirNow,42,44,Miami-Dade
+3/4/2020,41,PM2.5,KENDALL,12-086-0034,AirNow,32,41,Miami-Dade
+3/5/2020,48,PM2.5,HOMESTEAD FIRE STATION,12-086-6001,AirNow,32,48,Miami-Dade
+3/6/2020,40,PM2.5,Miami Fire Station,12-086-1016,AirNow,36,40,Miami-Dade
+3/7/2020,44,Ozone,Rosenstiel,12-086-0027,AirNow,44,29,Miami-Dade
+3/8/2020,45,Ozone,Rosenstiel,12-086-0027,AirNow,45,31,Miami-Dade
+3/9/2020,45,Ozone,Rosenstiel,12-086-0027,AirNow,45,37,Miami-Dade
+3/10/2020,42,Ozone,Rosenstiel,12-086-0027,AirNow,42,41,Miami-Dade
+3/11/2020,38,Ozone,Perdue,12-086-0029,AirNow,38,36,Miami-Dade
+3/12/2020,42,Ozone,Perdue,12-086-0029,AirNow,42,33,Miami-Dade
+3/13/2020,36,Ozone,Rosenstiel,12-086-0027,AirNow,36,33,Miami-Dade
+3/14/2020,32,Ozone,Perdue,12-086-0029,AirNow,32,27,Miami-Dade
+3/15/2020,31,Ozone,Rosenstiel,12-086-0027,AirNow,31,28,Miami-Dade
+3/16/2020,32,PM2.5,KENDALL,12-086-0034,AirNow,32,32,Miami-Dade
+3/17/2020,38,Ozone,Rosenstiel,12-086-0027,AirNow,38,34,Miami-Dade
+3/18/2020,27,PM2.5,KENDALL,12-086-0034,AirNow,.,27,Miami-Dade
+3/20/2020,37,Ozone,Perdue,12-086-0029,AirNow,37,31,Miami-Dade
+3/21/2020,34,Ozone,Perdue,12-086-0029,AirNow,34,32,Miami-Dade
+3/22/2020,33,Ozone,Perdue,12-086-0029,AirNow,33,29,Miami-Dade
+3/23/2020,32,Ozone,Rosenstiel,12-086-0027,AirNow,32,26,Miami-Dade
+3/24/2020,33,PM2.5,HOMESTEAD FIRE STATION,12-086-6001,AirNow,31,33,Miami-Dade
+3/25/2020,42,PM2.5,HOMESTEAD FIRE STATION,12-086-6001,AirNow,33,42,Miami-Dade
+3/26/2020,52,PM2.5,KENDALL,12-086-0034,AirNow,47,52,Miami-Dade
+3/27/2020,56,PM2.5,HOMESTEAD FIRE STATION,12-086-6001,AirNow,44,56,Miami-Dade
+3/28/2020,43,Ozone,Perdue,12-086-0029,AirNow,43,35,Miami-Dade
+3/29/2020,31,Ozone,Perdue,12-086-0029,AirNow,31,29,Miami-Dade
+3/30/2020,28,PM2.5,HOMESTEAD FIRE STATION,12-086-6001,AirNow,22,28,Miami-Dade
+3/31/2020,36,PM2.5,HOMESTEAD FIRE STATION,12-086-6001,AirNow,25,36,Miami-Dade
+4/1/2020,49,Ozone,Perdue,12-086-0029,AirNow,49,45,Miami-Dade
+4/4/2020,51,Ozone,Rosenstiel,12-086-0027,AirNow,51,37,Miami-Dade
+4/5/2020,48,Ozone,Rosenstiel,12-086-0027,AirNow,48,33,Miami-Dade
+4/6/2020,41,PM2.5,HOMESTEAD FIRE STATION,12-086-6001,AirNow,39,41,Miami-Dade
+4/7/2020,36,Ozone,Rosenstiel,12-086-0027,AirNow,36,31,Miami-Dade
+4/8/2020,30,PM2.5,KENDALL,12-086-0034,AirNow,29,30,Miami-Dade
+4/9/2020,40,PM2.5,KENDALL,12-086-0034,AirNow,27,40,Miami-Dade
+4/10/2020,60,PM2.5,KENDALL,12-086-0034,AirNow,33,60,Miami-Dade
+4/11/2020,55,PM2.5,HOMESTEAD FIRE STATION,12-086-6001,AirNow,40,55,Miami-Dade
+4/12/2020,62,PM2.5,KENDALL,12-086-0034,AirNow,32,62,Miami-Dade
+4/13/2020,67,PM2.5,KENDALL,12-086-0034,AirNow,23,67,Miami-Dade
+4/14/2020,55,PM2.5,KENDALL,12-086-0034,AirNow,19,55,Miami-Dade
+4/16/2020,62,PM2.5,KENDALL,12-086-0034,AirNow,34,62,Miami-Dade
