@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link href="data:text/css;charset=utf-8,%0A%40font%2Dface%20%7B%0Afont%2Dfamily%3A%20octicons%2Dlink%3B%0Asrc%3A%20url%28data%3Afont%2Fwoff%3Bcharset%3Dutf%2D8%3Bbase64%2Cd09GRgABAAAAAAZwABAAAAAACFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEU0lHAAAGaAAAAAgAAAAIAAAAAUdTVUIAAAZcAAAACgAAAAoAAQAAT1MvMgAAAyQAAABJAAAAYFYEU3RjbWFwAAADcAAAAEUAAACAAJThvmN2dCAAAATkAAAABAAAAAQAAAAAZnBnbQAAA7gAAACyAAABCUM%2B8IhnYXNwAAAGTAAAABAAAAAQABoAI2dseWYAAAFsAAABPAAAAZwcEq9taGVhZAAAAsgAAAA0AAAANgh4a91oaGVhAAADCAAAABoAAAAkCA8DRGhtdHgAAAL8AAAADAAAAAwGAACfbG9jYQAAAsAAAAAIAAAACABiATBtYXhwAAACqAAAABgAAAAgAA8ASm5hbWUAAAToAAABQgAAAlXu73sOcG9zdAAABiwAAAAeAAAAME3QpOBwcmVwAAAEbAAAAHYAAAB%2FaFGpk3jaTY6xa8JAGMW%2FO62BDi0tJLYQincXEypYIiGJjSgHniQ6umTsUEyLm5BV6NDBP8Tpts6F0v%2Bk%2F0an2i%2BitHDw3v2%2B9%2BDBKTzsJNnWJNTgHEy4BgG3EMI9DCEDOGEXzDADU5hBKMIgNPZqoD3SilVaXZCER3%2FI7AtxEJLtzzuZfI%2BVVkprxTlXShWKb3TBecG11rwoNlmmn1P2WYcJczl32etSpKnziC7lQyWe1smVPy%2FLt7Kc%2B0vWY%2FgAgIIEqAN9we0pwKXreiMasxvabDQMM4riO%2BqxM2ogwDGOZTXxwxDiycQIcoYFBLj5K3EIaSctAq2kTYiw%2Bymhce7vwM9jSqO8JyVd5RH9gyTt2%2BJ%2FyUmYlIR0s04n6%2B7Vm1ozezUeLEaUjhaDSuXHwVRgvLJn1tQ7xiuVv%2FocTRF42mNgZGBgYGbwZOBiAAFGJBIMAAizAFoAAABiAGIAznjaY2BkYGAA4in8zwXi%2BW2%2BMjCzMIDApSwvXzC97Z4Ig8N%2FBxYGZgcgl52BCSQKAA3jCV8CAABfAAAAAAQAAEB42mNgZGBg4f3vACQZQABIMjKgAmYAKEgBXgAAeNpjYGY6wTiBgZWBg2kmUxoDA4MPhGZMYzBi1AHygVLYQUCaawqDA4PChxhmh%2F8ODDEsvAwHgMKMIDnGL0x7gJQCAwMAJd4MFwAAAHjaY2BgYGaA4DAGRgYQkAHyGMF8NgYrIM3JIAGVYYDT%2BAEjAwuDFpBmA9KMDEwMCh9i%2Fv8H8sH0%2F4dQc1iAmAkALaUKLgAAAHjaTY9LDsIgEIbtgqHUPpDi3gPoBVyRTmTddOmqTXThEXqrob2gQ1FjwpDvfwCBdmdXC5AVKFu3e5MfNFJ29KTQT48Ob9%2FlqYwOGZxeUelN2U2R6%2BcArgtCJpauW7UQBqnFkUsjAY%2FkOU1cP%2BDAgvxwn1chZDwUbd6CFimGXwzwF6tPbFIcjEl%2BvvmM%2FbyA48e6tWrKArm4ZJlCbdsrxksL1AwWn%2FyBSJKpYbq8AXaaTb8AAHja28jAwOC00ZrBeQNDQOWO%2F%2FsdBBgYGRiYWYAEELEwMTE4uzo5Zzo5b2BxdnFOcALxNjA6b2ByTswC8jYwg0VlNuoCTWAMqNzMzsoK1rEhNqByEyerg5PMJlYuVueETKcd%2F89uBpnpvIEVomeHLoMsAAe1Id4AAAAAAAB42oWQT07CQBTGv0JBhagk7HQzKxca2sJCE1hDt4QF%2B9JOS0nbaaYDCQfwCJ7Au3AHj%2BLO13FMmm6cl7785vven0kBjHCBhfpYuNa5Ph1c0e2Xu3jEvWG7UdPDLZ4N92nOm%2BEBXuAbHmIMSRMs%2B4aUEd4Nd3CHD8NdvOLTsA2GL8M9PODbcL%2BhD7C1xoaHeLJSEao0FEW14ckxC%2BTU8TxvsY6X0eLPmRhry2WVioLpkrbp84LLQPGI7c6sOiUzpWIWS5GzlSgUzzLBSikOPFTOXqly7rqx0Z1Q5BAIoZBSFihQYQOOBEdkCOgXTOHA07HAGjGWiIjaPZNW13%2F%2Blm6S9FT7rLHFJ6fQbkATOG1j2OFMucKJJsxIVfQORl%2B9Jyda6Sl1dUYhSCm1dyClfoeDve4qMYdLEbfqHf3O%2FAdDumsjAAB42mNgYoAAZQYjBmyAGYQZmdhL8zLdDEydARfoAqIAAAABAAMABwAKABMAB%2F%2F%2FAA8AAQAAAAAAAAAAAAAAAAABAAAAAA%3D%3D%29%20format%28%27woff%27%29%3B%0A%7D%0Abody%20%7B%0A%2Dwebkit%2Dtext%2Dsize%2Dadjust%3A%20100%25%3B%0Atext%2Dsize%2Dadjust%3A%20100%25%3B%0Acolor%3A%20%23333%3B%0Afont%2Dfamily%3A%20%22Helvetica%20Neue%22%2C%20Helvetica%2C%20%22Segoe%20UI%22%2C%20Arial%2C%20freesans%2C%20sans%2Dserif%2C%20%22Apple%20Color%20Emoji%22%2C%20%22Segoe%20UI%20Emoji%22%2C%20%22Segoe%20UI%20Symbol%22%3B%0Afont%2Dsize%3A%2016px%3B%0Aline%2Dheight%3A%201%2E6%3B%0Aword%2Dwrap%3A%20break%2Dword%3B%0A%7D%0Aa%20%7B%0Abackground%2Dcolor%3A%20transparent%3B%0A%7D%0Aa%3Aactive%2C%0Aa%3Ahover%20%7B%0Aoutline%3A%200%3B%0A%7D%0Astrong%20%7B%0Afont%2Dweight%3A%20bold%3B%0A%7D%0Ah1%20%7B%0Afont%2Dsize%3A%202em%3B%0Amargin%3A%200%2E67em%200%3B%0A%7D%0Aimg%20%7B%0Aborder%3A%200%3B%0A%7D%0Ahr%20%7B%0Abox%2Dsizing%3A%20content%2Dbox%3B%0Aheight%3A%200%3B%0A%7D%0Apre%20%7B%0Aoverflow%3A%20auto%3B%0A%7D%0Acode%2C%0Akbd%2C%0Apre%20%7B%0Afont%2Dfamily%3A%20monospace%2C%20monospace%3B%0Afont%2Dsize%3A%201em%3B%0A%7D%0Ainput%20%7B%0Acolor%3A%20inherit%3B%0Afont%3A%20inherit%3B%0Amargin%3A%200%3B%0A%7D%0Ahtml%20input%5Bdisabled%5D%20%7B%0Acursor%3A%20default%3B%0A%7D%0Ainput%20%7B%0Aline%2Dheight%3A%20normal%3B%0A%7D%0Ainput%5Btype%3D%22checkbox%22%5D%20%7B%0Abox%2Dsizing%3A%20border%2Dbox%3B%0Apadding%3A%200%3B%0A%7D%0Atable%20%7B%0Aborder%2Dcollapse%3A%20collapse%3B%0Aborder%2Dspacing%3A%200%3B%0A%7D%0Atd%2C%0Ath%20%7B%0Apadding%3A%200%3B%0A%7D%0A%2A%20%7B%0Abox%2Dsizing%3A%20border%2Dbox%3B%0A%7D%0Ainput%20%7B%0Afont%3A%2013px%20%2F%201%2E4%20Helvetica%2C%20arial%2C%20nimbussansl%2C%20liberationsans%2C%20freesans%2C%20clean%2C%20sans%2Dserif%2C%20%22Apple%20Color%20Emoji%22%2C%20%22Segoe%20UI%20Emoji%22%2C%20%22Segoe%20UI%20Symbol%22%3B%0A%7D%0Aa%20%7B%0Acolor%3A%20%234078c0%3B%0Atext%2Ddecoration%3A%20none%3B%0A%7D%0Aa%3Ahover%2C%0Aa%3Aactive%20%7B%0Atext%2Ddecoration%3A%20underline%3B%0A%7D%0Ahr%20%7B%0Aheight%3A%200%3B%0Amargin%3A%2015px%200%3B%0Aoverflow%3A%20hidden%3B%0Abackground%3A%20transparent%3B%0Aborder%3A%200%3B%0Aborder%2Dbottom%3A%201px%20solid%20%23ddd%3B%0A%7D%0Ahr%3Abefore%20%7B%0Adisplay%3A%20table%3B%0Acontent%3A%20%22%22%3B%0A%7D%0Ahr%3Aafter%20%7B%0Adisplay%3A%20table%3B%0Aclear%3A%20both%3B%0Acontent%3A%20%22%22%3B%0A%7D%0Ah1%2C%0Ah2%2C%0Ah3%2C%0Ah4%2C%0Ah5%2C%0Ah6%20%7B%0Amargin%2Dtop%3A%2015px%3B%0Amargin%2Dbottom%3A%2015px%3B%0Aline%2Dheight%3A%201%2E1%3B%0A%7D%0Ah1%20%7B%0Afont%2Dsize%3A%2030px%3B%0A%7D%0Ah2%20%7B%0Afont%2Dsize%3A%2021px%3B%0A%7D%0Ah3%20%7B%0Afont%2Dsize%3A%2016px%3B%0A%7D%0Ah4%20%7B%0Afont%2Dsize%3A%2014px%3B%0A%7D%0Ah5%20%7B%0Afont%2Dsize%3A%2012px%3B%0A%7D%0Ah6%20%7B%0Afont%2Dsize%3A%2011px%3B%0A%7D%0Ablockquote%20%7B%0Amargin%3A%200%3B%0A%7D%0Aul%2C%0Aol%20%7B%0Apadding%3A%200%3B%0Amargin%2Dtop%3A%200%3B%0Amargin%2Dbottom%3A%200%3B%0A%7D%0Aol%20ol%2C%0Aul%20ol%20%7B%0Alist%2Dstyle%2Dtype%3A%20lower%2Droman%3B%0A%7D%0Aul%20ul%20ol%2C%0Aul%20ol%20ol%2C%0Aol%20ul%20ol%2C%0Aol%20ol%20ol%20%7B%0Alist%2Dstyle%2Dtype%3A%20lower%2Dalpha%3B%0A%7D%0Add%20%7B%0Amargin%2Dleft%3A%200%3B%0A%7D%0Acode%20%7B%0Afont%2Dfamily%3A%20Consolas%2C%20%22Liberation%20Mono%22%2C%20Menlo%2C%20Courier%2C%20monospace%3B%0Afont%2Dsize%3A%2012px%3B%0A%7D%0Apre%20%7B%0Amargin%2Dtop%3A%200%3B%0Amargin%2Dbottom%3A%200%3B%0Afont%3A%2012px%20Consolas%2C%20%22Liberation%20Mono%22%2C%20Menlo%2C%20Courier%2C%20monospace%3B%0A%7D%0A%2Eselect%3A%3A%2Dms%2Dexpand%20%7B%0Aopacity%3A%200%3B%0A%7D%0A%2Eocticon%20%7B%0Afont%3A%20normal%20normal%20normal%2016px%2F1%20octicons%2Dlink%3B%0Adisplay%3A%20inline%2Dblock%3B%0Atext%2Ddecoration%3A%20none%3B%0Atext%2Drendering%3A%20auto%3B%0A%2Dwebkit%2Dfont%2Dsmoothing%3A%20antialiased%3B%0A%2Dmoz%2Dosx%2Dfont%2Dsmoothing%3A%20grayscale%3B%0A%2Dwebkit%2Duser%2Dselect%3A%20none%3B%0A%2Dmoz%2Duser%2Dselect%3A%20none%3B%0A%2Dms%2Duser%2Dselect%3A%20none%3B%0Auser%2Dselect%3A%20none%3B%0A%7D%0A%2Eocticon%2Dlink%3Abefore%20%7B%0Acontent%3A%20%27%5Cf05c%27%3B%0A%7D%0A%2Emarkdown%2Dbody%3Abefore%20%7B%0Adisplay%3A%20table%3B%0Acontent%3A%20%22%22%3B%0A%7D%0A%2Emarkdown%2Dbody%3Aafter%20%7B%0Adisplay%3A%20table%3B%0Aclear%3A%20both%3B%0Acontent%3A%20%22%22%3B%0A%7D%0A%2Emarkdown%2Dbody%3E%2A%3Afirst%2Dchild%20%7B%0Amargin%2Dtop%3A%200%20%21important%3B%0A%7D%0A%2Emarkdown%2Dbody%3E%2A%3Alast%2Dchild%20%7B%0Amargin%2Dbottom%3A%200%20%21important%3B%0A%7D%0Aa%3Anot%28%5Bhref%5D%29%20%7B%0Acolor%3A%20inherit%3B%0Atext%2Ddecoration%3A%20none%3B%0A%7D%0A%2Eanchor%20%7B%0Adisplay%3A%20inline%2Dblock%3B%0Apadding%2Dright%3A%202px%3B%0Amargin%2Dleft%3A%20%2D18px%3B%0A%7D%0A%2Eanchor%3Afocus%20%7B%0Aoutline%3A%20none%3B%0A%7D%0Ah1%2C%0Ah2%2C%0Ah3%2C%0Ah4%2C%0Ah5%2C%0Ah6%20%7B%0Amargin%2Dtop%3A%201em%3B%0Amargin%2Dbottom%3A%2016px%3B%0Afont%2Dweight%3A%20bold%3B%0Aline%2Dheight%3A%201%2E4%3B%0A%7D%0Ah1%20%2Eocticon%2Dlink%2C%0Ah2%20%2Eocticon%2Dlink%2C%0Ah3%20%2Eocticon%2Dlink%2C%0Ah4%20%2Eocticon%2Dlink%2C%0Ah5%20%2Eocticon%2Dlink%2C%0Ah6%20%2Eocticon%2Dlink%20%7B%0Acolor%3A%20%23000%3B%0Avertical%2Dalign%3A%20middle%3B%0Avisibility%3A%20hidden%3B%0A%7D%0Ah1%3Ahover%20%2Eanchor%2C%0Ah2%3Ahover%20%2Eanchor%2C%0Ah3%3Ahover%20%2Eanchor%2C%0Ah4%3Ahover%20%2Eanchor%2C%0Ah5%3Ahover%20%2Eanchor%2C%0Ah6%3Ahover%20%2Eanchor%20%7B%0Atext%2Ddecoration%3A%20none%3B%0A%7D%0Ah1%3Ahover%20%2Eanchor%20%2Eocticon%2Dlink%2C%0Ah2%3Ahover%20%2Eanchor%20%2Eocticon%2Dlink%2C%0Ah3%3Ahover%20%2Eanchor%20%2Eocticon%2Dlink%2C%0Ah4%3Ahover%20%2Eanchor%20%2Eocticon%2Dlink%2C%0Ah5%3Ahover%20%2Eanchor%20%2Eocticon%2Dlink%2C%0Ah6%3Ahover%20%2Eanchor%20%2Eocticon%2Dlink%20%7B%0Avisibility%3A%20visible%3B%0A%7D%0Ah1%20%7B%0Apadding%2Dbottom%3A%200%2E3em%3B%0Afont%2Dsize%3A%202%2E25em%3B%0Aline%2Dheight%3A%201%2E2%3B%0Aborder%2Dbottom%3A%201px%20solid%20%23eee%3B%0A%7D%0Ah1%20%2Eanchor%20%7B%0Aline%2Dheight%3A%201%3B%0A%7D%0Ah2%20%7B%0Apadding%2Dbottom%3A%200%2E3em%3B%0Afont%2Dsize%3A%201%2E75em%3B%0Aline%2Dheight%3A%201%2E225%3B%0Aborder%2Dbottom%3A%201px%20solid%20%23eee%3B%0A%7D%0Ah2%20%2Eanchor%20%7B%0Aline%2Dheight%3A%201%3B%0A%7D%0Ah3%20%7B%0Afont%2Dsize%3A%201%2E5em%3B%0Aline%2Dheight%3A%201%2E43%3B%0A%7D%0Ah3%20%2Eanchor%20%7B%0Aline%2Dheight%3A%201%2E2%3B%0A%7D%0Ah4%20%7B%0Afont%2Dsize%3A%201%2E25em%3B%0A%7D%0Ah4%20%2Eanchor%20%7B%0Aline%2Dheight%3A%201%2E2%3B%0A%7D%0Ah5%20%7B%0Afont%2Dsize%3A%201em%3B%0A%7D%0Ah5%20%2Eanchor%20%7B%0Aline%2Dheight%3A%201%2E1%3B%0A%7D%0Ah6%20%7B%0Afont%2Dsize%3A%201em%3B%0Acolor%3A%20%23777%3B%0A%7D%0Ah6%20%2Eanchor%20%7B%0Aline%2Dheight%3A%201%2E1%3B%0A%7D%0Ap%2C%0Ablockquote%2C%0Aul%2C%0Aol%2C%0Adl%2C%0Atable%2C%0Apre%20%7B%0Amargin%2Dtop%3A%200%3B%0Amargin%2Dbottom%3A%2016px%3B%0A%7D%0Ahr%20%7B%0Aheight%3A%204px%3B%0Apadding%3A%200%3B%0Amargin%3A%2016px%200%3B%0Abackground%2Dcolor%3A%20%23e7e7e7%3B%0Aborder%3A%200%20none%3B%0A%7D%0Aul%2C%0Aol%20%7B%0Apadding%2Dleft%3A%202em%3B%0A%7D%0Aul%20ul%2C%0Aul%20ol%2C%0Aol%20ol%2C%0Aol%20ul%20%7B%0Amargin%2Dtop%3A%200%3B%0Amargin%2Dbottom%3A%200%3B%0A%7D%0Ali%3Ep%20%7B%0Amargin%2Dtop%3A%2016px%3B%0A%7D%0Adl%20%7B%0Apadding%3A%200%3B%0A%7D%0Adl%20dt%20%7B%0Apadding%3A%200%3B%0Amargin%2Dtop%3A%2016px%3B%0Afont%2Dsize%3A%201em%3B%0Afont%2Dstyle%3A%20italic%3B%0Afont%2Dweight%3A%20bold%3B%0A%7D%0Adl%20dd%20%7B%0Apadding%3A%200%2016px%3B%0Amargin%2Dbottom%3A%2016px%3B%0A%7D%0Ablockquote%20%7B%0Apadding%3A%200%2015px%3B%0Acolor%3A%20%23777%3B%0Aborder%2Dleft%3A%204px%20solid%20%23ddd%3B%0A%7D%0Ablockquote%3E%3Afirst%2Dchild%20%7B%0Amargin%2Dtop%3A%200%3B%0A%7D%0Ablockquote%3E%3Alast%2Dchild%20%7B%0Amargin%2Dbottom%3A%200%3B%0A%7D%0Atable%20%7B%0Adisplay%3A%20block%3B%0Awidth%3A%20100%25%3B%0Aoverflow%3A%20auto%3B%0Aword%2Dbreak%3A%20normal%3B%0Aword%2Dbreak%3A%20keep%2Dall%3B%0A%7D%0Atable%20th%20%7B%0Afont%2Dweight%3A%20bold%3B%0A%7D%0Atable%20th%2C%0Atable%20td%20%7B%0Apadding%3A%206px%2013px%3B%0Aborder%3A%201px%20solid%20%23ddd%3B%0A%7D%0Atable%20tr%20%7B%0Abackground%2Dcolor%3A%20%23fff%3B%0Aborder%2Dtop%3A%201px%20solid%20%23ccc%3B%0A%7D%0Atable%20tr%3Anth%2Dchild%282n%29%20%7B%0Abackground%2Dcolor%3A%20%23f8f8f8%3B%0A%7D%0Aimg%20%7B%0Amax%2Dwidth%3A%20100%25%3B%0Abox%2Dsizing%3A%20content%2Dbox%3B%0Abackground%2Dcolor%3A%20%23fff%3B%0A%7D%0Acode%20%7B%0Apadding%3A%200%3B%0Apadding%2Dtop%3A%200%2E2em%3B%0Apadding%2Dbottom%3A%200%2E2em%3B%0Amargin%3A%200%3B%0Afont%2Dsize%3A%2085%25%3B%0Abackground%2Dcolor%3A%20rgba%280%2C0%2C0%2C0%2E04%29%3B%0Aborder%2Dradius%3A%203px%3B%0A%7D%0Acode%3Abefore%2C%0Acode%3Aafter%20%7B%0Aletter%2Dspacing%3A%20%2D0%2E2em%3B%0Acontent%3A%20%22%5C00a0%22%3B%0A%7D%0Apre%3Ecode%20%7B%0Apadding%3A%200%3B%0Amargin%3A%200%3B%0Afont%2Dsize%3A%20100%25%3B%0Aword%2Dbreak%3A%20normal%3B%0Awhite%2Dspace%3A%20pre%3B%0Abackground%3A%20transparent%3B%0Aborder%3A%200%3B%0A%7D%0A%2Ehighlight%20%7B%0Amargin%2Dbottom%3A%2016px%3B%0A%7D%0A%2Ehighlight%20pre%2C%0Apre%20%7B%0Apadding%3A%2016px%3B%0Aoverflow%3A%20auto%3B%0Afont%2Dsize%3A%2085%25%3B%0Aline%2Dheight%3A%201%2E45%3B%0Abackground%2Dcolor%3A%20%23f7f7f7%3B%0Aborder%2Dradius%3A%203px%3B%0A%7D%0A%2Ehighlight%20pre%20%7B%0Amargin%2Dbottom%3A%200%3B%0Aword%2Dbreak%3A%20normal%3B%0A%7D%0Apre%20%7B%0Aword%2Dwrap%3A%20normal%3B%0A%7D%0Apre%20code%20%7B%0Adisplay%3A%20inline%3B%0Amax%2Dwidth%3A%20initial%3B%0Apadding%3A%200%3B%0Amargin%3A%200%3B%0Aoverflow%3A%20initial%3B%0Aline%2Dheight%3A%20inherit%3B%0Aword%2Dwrap%3A%20normal%3B%0Abackground%2Dcolor%3A%20transparent%3B%0Aborder%3A%200%3B%0A%7D%0Apre%20code%3Abefore%2C%0Apre%20code%3Aafter%20%7B%0Acontent%3A%20normal%3B%0A%7D%0Akbd%20%7B%0Adisplay%3A%20inline%2Dblock%3B%0Apadding%3A%203px%205px%3B%0Afont%2Dsize%3A%2011px%3B%0Aline%2Dheight%3A%2010px%3B%0Acolor%3A%20%23555%3B%0Avertical%2Dalign%3A%20middle%3B%0Abackground%2Dcolor%3A%20%23fcfcfc%3B%0Aborder%3A%20solid%201px%20%23ccc%3B%0Aborder%2Dbottom%2Dcolor%3A%20%23bbb%3B%0Aborder%2Dradius%3A%203px%3B%0Abox%2Dshadow%3A%20inset%200%20%2D1px%200%20%23bbb%3B%0A%7D%0A%2Epl%2Dc%20%7B%0Acolor%3A%20%23969896%3B%0A%7D%0A%2Epl%2Dc1%2C%0A%2Epl%2Ds%20%2Epl%2Dv%20%7B%0Acolor%3A%20%230086b3%3B%0A%7D%0A%2Epl%2De%2C%0A%2Epl%2Den%20%7B%0Acolor%3A%20%23795da3%3B%0A%7D%0A%2Epl%2Ds%20%2Epl%2Ds1%2C%0A%2Epl%2Dsmi%20%7B%0Acolor%3A%20%23333%3B%0A%7D%0A%2Epl%2Dent%20%7B%0Acolor%3A%20%2363a35c%3B%0A%7D%0A%2Epl%2Dk%20%7B%0Acolor%3A%20%23a71d5d%3B%0A%7D%0A%2Epl%2Dpds%2C%0A%2Epl%2Ds%2C%0A%2Epl%2Ds%20%2Epl%2Dpse%20%2Epl%2Ds1%2C%0A%2Epl%2Dsr%2C%0A%2Epl%2Dsr%20%2Epl%2Dcce%2C%0A%2Epl%2Dsr%20%2Epl%2Dsra%2C%0A%2Epl%2Dsr%20%2Epl%2Dsre%20%7B%0Acolor%3A%20%23183691%3B%0A%7D%0A%2Epl%2Dv%20%7B%0Acolor%3A%20%23ed6a43%3B%0A%7D%0A%2Epl%2Did%20%7B%0Acolor%3A%20%23b52a1d%3B%0A%7D%0A%2Epl%2Dii%20%7B%0Abackground%2Dcolor%3A%20%23b52a1d%3B%0Acolor%3A%20%23f8f8f8%3B%0A%7D%0A%2Epl%2Dsr%20%2Epl%2Dcce%20%7B%0Acolor%3A%20%2363a35c%3B%0Afont%2Dweight%3A%20bold%3B%0A%7D%0A%2Epl%2Dml%20%7B%0Acolor%3A%20%23693a17%3B%0A%7D%0A%2Epl%2Dmh%2C%0A%2Epl%2Dmh%20%2Epl%2Den%2C%0A%2Epl%2Dms%20%7B%0Acolor%3A%20%231d3e81%3B%0Afont%2Dweight%3A%20bold%3B%0A%7D%0A%2Epl%2Dmq%20%7B%0Acolor%3A%20%23008080%3B%0A%7D%0A%2Epl%2Dmi%20%7B%0Acolor%3A%20%23333%3B%0Afont%2Dstyle%3A%20italic%3B%0A%7D%0A%2Epl%2Dmb%20%7B%0Acolor%3A%20%23333%3B%0Afont%2Dweight%3A%20bold%3B%0A%7D%0A%2Epl%2Dmd%20%7B%0Abackground%2Dcolor%3A%20%23ffecec%3B%0Acolor%3A%20%23bd2c00%3B%0A%7D%0A%2Epl%2Dmi1%20%7B%0Abackground%2Dcolor%3A%20%23eaffea%3B%0Acolor%3A%20%2355a532%3B%0A%7D%0A%2Epl%2Dmdr%20%7B%0Acolor%3A%20%23795da3%3B%0Afont%2Dweight%3A%20bold%3B%0A%7D%0A%2Epl%2Dmo%20%7B%0Acolor%3A%20%231d3e81%3B%0A%7D%0Akbd%20%7B%0Adisplay%3A%20inline%2Dblock%3B%0Apadding%3A%203px%205px%3B%0Afont%3A%2011px%20Consolas%2C%20%22Liberation%20Mono%22%2C%20Menlo%2C%20Courier%2C%20monospace%3B%0Aline%2Dheight%3A%2010px%3B%0Acolor%3A%20%23555%3B%0Avertical%2Dalign%3A%20middle%3B%0Abackground%2Dcolor%3A%20%23fcfcfc%3B%0Aborder%3A%20solid%201px%20%23ccc%3B%0Aborder%2Dbottom%2Dcolor%3A%20%23bbb%3B%0Aborder%2Dradius%3A%203px%3B%0Abox%2Dshadow%3A%20inset%200%20%2D1px%200%20%23bbb%3B%0A%7D%0A%2Etask%2Dlist%2Ditem%20%7B%0Alist%2Dstyle%2Dtype%3A%20none%3B%0A%7D%0A%2Etask%2Dlist%2Ditem%2B%2Etask%2Dlist%2Ditem%20%7B%0Amargin%2Dtop%3A%203px%3B%0A%7D%0A%2Etask%2Dlist%2Ditem%20input%20%7B%0Amargin%3A%200%200%2E35em%200%2E25em%20%2D1%2E6em%3B%0Avertical%2Dalign%3A%20middle%3B%0A%7D%0A%3Achecked%2B%2Eradio%2Dlabel%20%7B%0Az%2Dindex%3A%201%3B%0Aposition%3A%20relative%3B%0Aborder%2Dcolor%3A%20%234078c0%3B%0A%7D%0A%2EsourceLine%20%7B%0Adisplay%3A%20inline%2Dblock%3B%0A%7D%0Acode%20%2Ekw%20%7B%20color%3A%20%23000000%3B%20%7D%0Acode%20%2Edt%20%7B%20color%3A%20%23ed6a43%3B%20%7D%0Acode%20%2Edv%20%7B%20color%3A%20%23009999%3B%20%7D%0Acode%20%2Ebn%20%7B%20color%3A%20%23009999%3B%20%7D%0Acode%20%2Efl%20%7B%20color%3A%20%23009999%3B%20%7D%0Acode%20%2Ech%20%7B%20color%3A%20%23009999%3B%20%7D%0Acode%20%2Est%20%7B%20color%3A%20%23183691%3B%20%7D%0Acode%20%2Eco%20%7B%20color%3A%20%23969896%3B%20%7D%0Acode%20%2Eot%20%7B%20color%3A%20%230086b3%3B%20%7D%0Acode%20%2Eal%20%7B%20color%3A%20%23a61717%3B%20%7D%0Acode%20%2Efu%20%7B%20color%3A%20%2363a35c%3B%20%7D%0Acode%20%2Eer%20%7B%20color%3A%20%23a61717%3B%20background%2Dcolor%3A%20%23e3d2d2%3B%20%7D%0Acode%20%2Ewa%20%7B%20color%3A%20%23000000%3B%20%7D%0Acode%20%2Ecn%20%7B%20color%3A%20%23008080%3B%20%7D%0Acode%20%2Esc%20%7B%20color%3A%20%23008080%3B%20%7D%0Acode%20%2Evs%20%7B%20color%3A%20%23183691%3B%20%7D%0Acode%20%2Ess%20%7B%20color%3A%20%23183691%3B%20%7D%0Acode%20%2Eim%20%7B%20color%3A%20%23000000%3B%20%7D%0Acode%20%2Eva%20%7Bcolor%3A%20%23008080%3B%20%7D%0Acode%20%2Ecf%20%7B%20color%3A%20%23000000%3B%20%7D%0Acode%20%2Eop%20%7B%20color%3A%20%23000000%3B%20%7D%0Acode%20%2Ebu%20%7B%20color%3A%20%23000000%3B%20%7D%0Acode%20%2Eex%20%7B%20color%3A%20%23000000%3B%20%7D%0Acode%20%2Epp%20%7B%20color%3A%20%23999999%3B%20%7D%0Acode%20%2Eat%20%7B%20color%3A%20%23008080%3B%20%7D%0Acode%20%2Edo%20%7B%20color%3A%20%23969896%3B%20%7D%0Acode%20%2Ean%20%7B%20color%3A%20%23008080%3B%20%7D%0Acode%20%2Ecv%20%7B%20color%3A%20%23008080%3B%20%7D%0Acode%20%2Ein%20%7B%20color%3A%20%23008080%3B%20%7D%0A" rel="stylesheet">
+<style>
+body {
+  box-sizing: border-box;
+  min-width: 200px;
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 45px;
+  padding-top: 0px;
+}
+</style>
+
+</head>
+
+<body>
+
+<h1 id="aqi-vs-mobility-project-data-preparation">AQI vs Mobility Project: Data Preparation</h1>
+<p>Anjelica Martinez<br />
+05/08/2020</p>
+<ul>
+<li><a href="#introduction">Introduction</a></li>
+<li><a href="#data-sources">Data Sources</a>
+<ul>
+<li><a href="#air-quality-data">Air Quality Data</a></li>
+<li><a href="#mobility-data">Mobility Data</a></li>
+<li><a href="#time-range-adjustment">Time Range Adjustment</a></li>
+</ul></li>
+<li><a href="#data-preparation">Data Preparation</a>
+<ul>
+<li><a href="#mobility-data-prep">Mobility Data Prep</a></li>
+<li><a href="#aqi-data-prep">AQI Data Prep</a></li>
+<li><a href="#merge-aqi-and-mobility-dataframes">Merge AQI and Mobility Dataframes</a></li>
+</ul></li>
+</ul>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># Libraries</span>
+<span class="kw">library</span>(easypackages)
+<span class="kw">libraries</span>(<span class="st">&quot;sjmisc&quot;</span>, <span class="st">&quot;tidyverse&quot;</span>, <span class="st">&quot;lubridate&quot;</span>, <span class="st">&quot;readr&quot;</span>, <span class="st">&quot;plyr&quot;</span>)</code></pre></div>
+<h2 id="introduction">Introduction</h2>
+<p>The historic COVID-19 pandemic has caused nearly 50% of the world population to be subject to government “stay-at-home” and self-isolation orders. This sudden, drastic reduction in the mobility of the population has generated a natural experiment that tests the effect a near halt of mobility for individuals and drastic reduction of commercial operations would have on air quality. The metric used for this study is the mean daily mobility of individuals in a given US county.</p>
+<p>Based on this criteria, we selected five major counties that had the highest level of mobility reduction as well as five other counties that had fewer reduction in mobility. A major county is defined as being in the top 40 most populous counties in the US, per the US Census Bureau.</p>
+<p>The time period of this study is February 28 through March 27, the time during which some US counties enacted “shelter-in-place” and the self-isolation orders to control the community spread of COVID-19.</p>
+<p>The five counties with the greatest reduction in citizen mobility issued “shelter-in-place” orders during this period.</p>
+<p>The five counties with the least mobility reduction had no “shelter-in-place” orders during the studied time period and can serve as a control group. Our goal is to determine whether decrease in mobility correlates with increase in air quality and how strong of a relationship is there for these 10 counties.</p>
+<p><strong>Counties of Interest</strong></p>
+<p>Counties that decreased mobility <strong>98-100%</strong> between Feb. 28 and Mar. 27, 2020. <a href="https://www.nytimes.com/interactive/2020/04/02/us/coronavirus-social-distancing.html">New York Times</a>.</p>
+<ul>
+<li>Arlington, VA</li>
+<li>District of Columbia, DC</li>
+<li>New York, NY</li>
+<li>San Francisco, CA</li>
+<li>Santa Clara, CA</li>
+</ul>
+<p>Most populous counties that decreased mobility <strong>30% or less</strong> between between Feb. 28 and Mar. 27, 2020 <a href="https://www.nytimes.com/interactive/2020/04/02/us/coronavirus-social-distancing.html">New York Times</a>.</p>
+<ul>
+<li>Miami-Dade, FL</li>
+<li>Dallas, TX</li>
+<li>Harris, TX</li>
+<li>Maricopa, AZ</li>
+<li>San Bernardino County, CA</li>
+</ul>
+<h2 id="data-sources">Data Sources</h2>
+<h3 id="air-quality-data">Air Quality Data</h3>
+<p>We collected our air quality data from the <a href="https://www.epa.gov/outdoor-air-quality-data/air-quality-index-daily-values-report">EPA's free API service</a>. From the website, &quot;The AirData Air Quality Index Summary Report displays an annual summary of Air Quality Index (AQI) values for counties or core based statistical areas (CBSA). Air Quality Index is an indicator of overall air quality, because it takes into account all of the criteria air pollutants measured within a geographic area. Although AQI includes all available pollutant measurements, you should be aware that many areas have monitoring stations for some, but not all, of the pollutants.&quot; You can read the documentation <a href="https://www.epa.gov/outdoor-air-quality-data/about-air-data-reports">here</a>.</p>
+<h3 id="mobility-data">Mobility Data</h3>
+<p>We used the mobility statistics data collected by <a href="https://github.com/descarteslabs/DL-COVID-19">Descarte Labs</a>. The data represents &quot;the distance a typical member of a given population moves in a day, at the US admin1 (state) and admin2 (county) level)&quot;. Follow the link to the github repository to read their documentation.</p>
+<h3 id="time-range-adjustment">Time Range Adjustment</h3>
+<p>Because the mobility dataset only has data from March 1st we decided to omit air quality data from the months of January and February. Thus, our analyses only covers from March 1st to April 18th.</p>
+<h2 id="data-preparation">Data Preparation</h2>
+<h3 id="mobility-data-prep">Mobility Data Prep</h3>
+<p>First I cleaned and tidied up the <em>mobility</em> index csv file from Decartes Labs.</p>
+<p><strong>Variables of Interest:</strong></p>
+<ul>
+<li><code>m50</code>: The median of the max-distance mobility for all samples in the specified region</li>
+<li><code>m50_index</code>: The percent of normal m50 in the region, with normal m50 defined during 2020-02-17 to 2020-03-07</li>
+</ul>
+<p>If you would like to read more about the Descarte Labs mobility index, you can find the documentation <a href="https://github.com/descarteslabs/DL-COVID-19">here</a>.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># Import Messy Data</span>
+df &lt;-<span class="st"> </span><span class="kw">read.csv</span>(<span class="st">&quot;../Scripts/data/messy/us_mobility.csv&quot;</span>, <span class="dt">stringsAsFactors =</span> <span class="ot">FALSE</span>)
+(df &lt;-<span class="st"> </span><span class="kw">as_tibble</span>(df))</code></pre></div>
+<pre><code>## # A tibble: 130,639 x 9
+##    date     country_code admin_level admin1 admin2  fips samples   m50 m50_index
+##    &lt;chr&gt;    &lt;chr&gt;              &lt;int&gt; &lt;chr&gt;  &lt;chr&gt;  &lt;int&gt;   &lt;int&gt; &lt;dbl&gt;     &lt;int&gt;
+##  1 2020-03~ US                     1 Alaba~ &quot;&quot;         1  133826  8.33        79
+##  2 2020-03~ US                     1 Alaba~ &quot;&quot;         1  143632 10.4         98
+##  3 2020-03~ US                     1 Alaba~ &quot;&quot;         1  146009 10.5        100
+##  4 2020-03~ US                     1 Alaba~ &quot;&quot;         1  149352 10.1         96
+##  5 2020-03~ US                     1 Alaba~ &quot;&quot;         1  144109 11.0        104
+##  6 2020-03~ US                     1 Alaba~ &quot;&quot;         1  141491 13.0        123
+##  7 2020-03~ US                     1 Alaba~ &quot;&quot;         1  141163 11.4        107
+##  8 2020-03~ US                     1 Alaba~ &quot;&quot;         1  138075  8.51        80
+##  9 2020-03~ US                     1 Alaba~ &quot;&quot;         1  145037 10.9        103
+## 10 2020-03~ US                     1 Alaba~ &quot;&quot;         1  143390 10.9        103
+## # ... with 130,629 more rows</code></pre>
+<p>I renamed the columns to make it easier to understand what values they represented. I changed <code>admin1</code> to <code>state</code> and <code>admin2</code> to <code>county</code>. I then changed the date column from character format to data format.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># Rename columns</span>
+df &lt;-<span class="st"> </span>dplyr<span class="op">::</span><span class="kw">rename</span>(df, <span class="dt">state =</span> admin1, <span class="dt">county =</span> admin2)
+
+<span class="co"># Change character dates to R date format</span>
+df<span class="op">$</span>date &lt;-<span class="st"> </span><span class="kw">as.Date</span>(df<span class="op">$</span>date)
+
+<span class="kw">head</span>(df)</code></pre></div>
+<pre><code>## # A tibble: 6 x 9
+##   date       country_code admin_level state county  fips samples   m50 m50_index
+##   &lt;date&gt;     &lt;chr&gt;              &lt;int&gt; &lt;chr&gt; &lt;chr&gt;  &lt;int&gt;   &lt;int&gt; &lt;dbl&gt;     &lt;int&gt;
+## 1 2020-03-01 US                     1 Alab~ &quot;&quot;         1  133826  8.33        79
+## 2 2020-03-02 US                     1 Alab~ &quot;&quot;         1  143632 10.4         98
+## 3 2020-03-03 US                     1 Alab~ &quot;&quot;         1  146009 10.5        100
+## 4 2020-03-04 US                     1 Alab~ &quot;&quot;         1  149352 10.1         96
+## 5 2020-03-05 US                     1 Alab~ &quot;&quot;         1  144109 11.0        104
+## 6 2020-03-06 US                     1 Alab~ &quot;&quot;         1  141491 13.0        123</code></pre>
+<p>I created three dataframes for easier analysis: * <code>decrease</code>: mobility index values for counties that decreased mobility <em>98-100%</em> between Feb. 28 to Mar. 27 * <code>increase</code>: mobility index values for counties that decreased mobility <em>30% or less</em> between Feb. 28 to Mar. 27 * <code>df</code>: mobility index values for <em>all</em> counties</p>
+<h4 id="decrease-dataframe">Decrease Dataframe</h4>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># Create dataframe that contains counties that decreased mobility 98-100% between Feb. 28 to Mar. 27</span>
+decrease &lt;-<span class="st"> </span>df[(df<span class="op">$</span>county <span class="op">%in%</span><span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;New York County&quot;</span>, <span class="st">&quot;Arlington County&quot;</span>, <span class="st">&quot;San Francisco County&quot;</span>, <span class="st">&quot;Santa Clara County&quot;</span>)), ]</code></pre></div>
+<p>The mobility index had a peculiar entry. For Washington, D.C. they had the state listed as Washington D.C and the county column was left blank. I changed the state value to District of Columbia and added the District of Columbia value to all the District of Columbia state entries.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">dc_data&lt;-<span class="st"> </span>df[(df<span class="op">$</span>state <span class="op">==</span><span class="st"> &quot;Washington, D.C.&quot;</span>), ]
+decrease &lt;-<span class="st"> </span><span class="kw">bind_rows</span>(decrease, dc_data)
+
+<span class="co"># Replace Washington, DC with District of Columbia</span>
+decrease<span class="op">$</span>state[decrease<span class="op">$</span>state <span class="op">==</span><span class="st"> &quot;Washington, D.C.&quot;</span>] &lt;-<span class="st"> &quot;District of Columbia&quot;</span>
+
+<span class="co"># Add District of Columbia value</span>
+decrease[<span class="dv">197</span><span class="op">:</span><span class="dv">245</span>, <span class="dv">5</span>] &lt;-<span class="st"> &quot;District of Columbia&quot;</span>
+
+<span class="kw">head</span>(decrease)</code></pre></div>
+<pre><code>## # A tibble: 6 x 9
+##   date       country_code admin_level state county  fips samples   m50 m50_index
+##   &lt;date&gt;     &lt;chr&gt;              &lt;int&gt; &lt;chr&gt; &lt;chr&gt;  &lt;int&gt;   &lt;int&gt; &lt;dbl&gt;     &lt;int&gt;
+## 1 2020-03-01 US                     2 Cali~ San F~  6075    4513  2.66        77
+## 2 2020-03-02 US                     2 Cali~ San F~  6075    4139  3.34        97
+## 3 2020-03-03 US                     2 Cali~ San F~  6075    5251  3.28        95
+## 4 2020-03-04 US                     2 Cali~ San F~  6075    5503  3.46       101
+## 5 2020-03-05 US                     2 Cali~ San F~  6075    4693  3.42       100
+## 6 2020-03-06 US                     2 Cali~ San F~  6075    4683  3.84       112</code></pre>
+<p>Because the AQI dataframe excludes the county suffix, I removed the 'county' suffix from all the country entries for cohesiveness and easier analysis.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># Remove County from county name</span>
+decrease<span class="op">$</span>county &lt;-<span class="st"> </span><span class="kw">gsub</span>(<span class="st">&quot; County&quot;</span>, <span class="st">&quot;&quot;</span>, decrease<span class="op">$</span>county)
+
+<span class="co"># Check that District of Columbia values have been added</span>
+decrease[(decrease<span class="op">$</span>county <span class="op">==</span><span class="st"> &quot;District of Columbia&quot;</span>), ]</code></pre></div>
+<pre><code>## # A tibble: 49 x 9
+##    date       country_code admin_level state county  fips samples   m50
+##    &lt;date&gt;     &lt;chr&gt;              &lt;int&gt; &lt;chr&gt; &lt;chr&gt;  &lt;int&gt;   &lt;int&gt; &lt;dbl&gt;
+##  1 2020-03-01 US                     1 Dist~ Distr~    11    4735  3.74
+##  2 2020-03-02 US                     1 Dist~ Distr~    11    4344  2.80
+##  3 2020-03-03 US                     1 Dist~ Distr~    11    5165  3.58
+##  4 2020-03-04 US                     1 Dist~ Distr~    11    5349  3.66
+##  5 2020-03-05 US                     1 Dist~ Distr~    11    4956  3.90
+##  6 2020-03-06 US                     1 Dist~ Distr~    11    4874  4.27
+##  7 2020-03-07 US                     1 Dist~ Distr~    11    4928  3.97
+##  8 2020-03-08 US                     1 Dist~ Distr~    11    5380  4.51
+##  9 2020-03-09 US                     1 Dist~ Distr~    11    5199  3.38
+## 10 2020-03-10 US                     1 Dist~ Distr~    11    5090  3.52
+## # ... with 39 more rows, and 1 more variable: m50_index &lt;int&gt;</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># Check decrease dataframe</span>
+<span class="kw">head</span>(decrease)</code></pre></div>
+<pre><code>## # A tibble: 6 x 9
+##   date       country_code admin_level state county  fips samples   m50 m50_index
+##   &lt;date&gt;     &lt;chr&gt;              &lt;int&gt; &lt;chr&gt; &lt;chr&gt;  &lt;int&gt;   &lt;int&gt; &lt;dbl&gt;     &lt;int&gt;
+## 1 2020-03-01 US                     2 Cali~ San F~  6075    4513  2.66        77
+## 2 2020-03-02 US                     2 Cali~ San F~  6075    4139  3.34        97
+## 3 2020-03-03 US                     2 Cali~ San F~  6075    5251  3.28        95
+## 4 2020-03-04 US                     2 Cali~ San F~  6075    5503  3.46       101
+## 5 2020-03-05 US                     2 Cali~ San F~  6075    4693  3.42       100
+## 6 2020-03-06 US                     2 Cali~ San F~  6075    4683  3.84       112</code></pre>
+<h4 id="increase-dataframe">Increase Dataframe</h4>
+<p>This dataframe contains the mobility index values for counties that decreased mobility <em>30% or less</em> between Feb. 28 to Mar. 27.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># Create dataframe that contains Counties that decreased mobility 30% or less between Feb. 28 to Mar. 27</span>
+increase &lt;-<span class="st"> </span>df[(df<span class="op">$</span>county <span class="op">%in%</span><span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;Miami-Dade County&quot;</span>, <span class="st">&quot;Dallas County&quot;</span>, <span class="st">&quot;Harris County&quot;</span>, <span class="st">&quot;Maricopa County&quot;</span>, <span class="st">&quot;San Bernardino County&quot;</span>)), ]</code></pre></div>
+<p>This dataset contained several states that shared the same counties names. Here, I removed the states that we were not analyzing as well as the county suffix.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">increase &lt;-<span class="st"> </span><span class="kw">filter</span>(increase, <span class="op">!</span>(state <span class="op">%in%</span><span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;Alabama&quot;</span>, <span class="st">&quot;Arkansas&quot;</span>, <span class="st">&quot;Iowa&quot;</span>, <span class="st">&quot;Missouri&quot;</span>, <span class="st">&quot;Georgia&quot;</span>)))
+
+<span class="co"># Remove &quot;county&quot; from county name</span>
+increase<span class="op">$</span>county &lt;-<span class="st"> </span><span class="kw">gsub</span>(<span class="st">&quot; County&quot;</span>,<span class="st">&quot;&quot;</span>, increase<span class="op">$</span>county)</code></pre></div>
+<p>I then combined these two datasets together to form <code>sample_df</code> that only contained the data for the 10 counties of interest. I kept the original intact dataframe as <code>df</code> in case we decided to include more counties.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># Create df with counties of interest (our sample)</span>
+sample_df &lt;-<span class="st"> </span><span class="kw">bind_rows</span>(decrease, increase)</code></pre></div>
+<p>I decided to rename the variables when I saved the .Rdata file in order to make it easier identification in future analyses scripts.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># Rename with clearer variables</span>
+all_mobility_data &lt;-<span class="st"> </span>df
+decreased_mobility &lt;-<span class="st"> </span>decrease
+increased_mobility &lt;-<span class="st"> </span>increase
+all_selected_counties &lt;-<span class="st"> </span>sample_df
+
+<span class="co"># Check variables</span>
+<span class="kw">head</span>(all_mobility_data)</code></pre></div>
+<pre><code>## # A tibble: 6 x 9
+##   date       country_code admin_level state county  fips samples   m50 m50_index
+##   &lt;date&gt;     &lt;chr&gt;              &lt;int&gt; &lt;chr&gt; &lt;chr&gt;  &lt;int&gt;   &lt;int&gt; &lt;dbl&gt;     &lt;int&gt;
+## 1 2020-03-01 US                     1 Alab~ &quot;&quot;         1  133826  8.33        79
+## 2 2020-03-02 US                     1 Alab~ &quot;&quot;         1  143632 10.4         98
+## 3 2020-03-03 US                     1 Alab~ &quot;&quot;         1  146009 10.5        100
+## 4 2020-03-04 US                     1 Alab~ &quot;&quot;         1  149352 10.1         96
+## 5 2020-03-05 US                     1 Alab~ &quot;&quot;         1  144109 11.0        104
+## 6 2020-03-06 US                     1 Alab~ &quot;&quot;         1  141491 13.0        123</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">head</span>(decreased_mobility)</code></pre></div>
+<pre><code>## # A tibble: 6 x 9
+##   date       country_code admin_level state county  fips samples   m50 m50_index
+##   &lt;date&gt;     &lt;chr&gt;              &lt;int&gt; &lt;chr&gt; &lt;chr&gt;  &lt;int&gt;   &lt;int&gt; &lt;dbl&gt;     &lt;int&gt;
+## 1 2020-03-01 US                     2 Cali~ San F~  6075    4513  2.66        77
+## 2 2020-03-02 US                     2 Cali~ San F~  6075    4139  3.34        97
+## 3 2020-03-03 US                     2 Cali~ San F~  6075    5251  3.28        95
+## 4 2020-03-04 US                     2 Cali~ San F~  6075    5503  3.46       101
+## 5 2020-03-05 US                     2 Cali~ San F~  6075    4693  3.42       100
+## 6 2020-03-06 US                     2 Cali~ San F~  6075    4683  3.84       112</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">head</span>(increased_mobility)</code></pre></div>
+<pre><code>## # A tibble: 6 x 9
+##   date       country_code admin_level state county  fips samples   m50 m50_index
+##   &lt;date&gt;     &lt;chr&gt;              &lt;int&gt; &lt;chr&gt; &lt;chr&gt;  &lt;int&gt;   &lt;int&gt; &lt;dbl&gt;     &lt;int&gt;
+## 1 2020-03-01 US                     2 Ariz~ Maric~  4013   78925  5.39        62
+## 2 2020-03-02 US                     2 Ariz~ Maric~  4013   82514  8.44        97
+## 3 2020-03-03 US                     2 Ariz~ Maric~  4013   84011  8.55        98
+## 4 2020-03-04 US                     2 Ariz~ Maric~  4013   85357  8.67       100
+## 5 2020-03-05 US                     2 Ariz~ Maric~  4013   82941  9.14       105
+## 6 2020-03-06 US                     2 Ariz~ Maric~  4013   81537  9.71       111</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">head</span>(all_selected_counties)</code></pre></div>
+<pre><code>## # A tibble: 6 x 9
+##   date       country_code admin_level state county  fips samples   m50 m50_index
+##   &lt;date&gt;     &lt;chr&gt;              &lt;int&gt; &lt;chr&gt; &lt;chr&gt;  &lt;int&gt;   &lt;int&gt; &lt;dbl&gt;     &lt;int&gt;
+## 1 2020-03-01 US                     2 Cali~ San F~  6075    4513  2.66        77
+## 2 2020-03-02 US                     2 Cali~ San F~  6075    4139  3.34        97
+## 3 2020-03-03 US                     2 Cali~ San F~  6075    5251  3.28        95
+## 4 2020-03-04 US                     2 Cali~ San F~  6075    5503  3.46       101
+## 5 2020-03-05 US                     2 Cali~ San F~  6075    4693  3.42       100
+## 6 2020-03-06 US                     2 Cali~ San F~  6075    4683  3.84       112</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># Save as Rdata file</span>
+<span class="co"># save(decreased_mobility, increased_mobility, all_mobility_data, all_selected_counties, file = &quot;mobility.RData&quot;)</span>
+
+<span class="co"># Check that data loads</span>
+<span class="co"># load(&quot;mobility.RData&quot;)</span></code></pre></div>
+<h3 id="aqi-data-prep">AQI Data Prep</h3>
+<p><strong>Variables of Interest:</strong></p>
+<ul>
+<li><code>AQI</code>: average air quality index for that day</li>
+<li><code>Pollutant names (e.g. Ozone, PM25)</code>: each have their average daily value</li>
+<li><code>main_pollutant</code>: from the original data, represented which pollutant was the main pollutant affecting AQI</li>
+</ul>
+<p>The API system provided by EPA required us to download each counties daily average aqi and pollutant values individually. I used an apply function (loop) to quickly process all the csv files and combine them into one dataset called <code>df</code>.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># Apply loop to import csv files at once</span>
+files &lt;-<span class="st"> </span><span class="kw">list.files</span>(<span class="dt">path =</span> <span class="st">&quot;../Scripts/data/messy/daily_aqi_values&quot;</span>, <span class="dt">pattern =</span> <span class="st">&quot;*.csv&quot;</span>, <span class="dt">full.names =</span> T)
+df &lt;-<span class="st"> </span><span class="kw">ldply</span>(files, read_csv)
+
+<span class="co"># Change to data format</span>
+df<span class="op">$</span>Date &lt;-<span class="st"> </span><span class="kw">as.Date</span>(df<span class="op">$</span>Date)
+
+<span class="co"># Rearrange columns</span>
+df &lt;-<span class="st"> </span><span class="kw">move_columns</span>(df, County, <span class="dt">.after =</span> <span class="st">&quot;Main Pollutant&quot;</span>)
+
+<span class="co">#Change to tibble format</span>
+df &lt;-<span class="st"> </span><span class="kw">as_tibble</span>(df)
+
+<span class="kw">head</span>(df)</code></pre></div>
+<pre><code>## # A tibble: 6 x 13
+##   Date       `Overall AQI Va~ `Main Pollutant` County `Site Name (of ~
+##   &lt;date&gt;                &lt;dbl&gt; &lt;chr&gt;            &lt;chr&gt;  &lt;chr&gt;           
+## 1 0001-01-20               27 PM2.5            Arlin~ Aurora Hills Vi~
+## 2 0001-04-20               30 PM2.5            Arlin~ Aurora Hills Vi~
+## 3 0001-07-20               30 PM2.5            Arlin~ Aurora Hills Vi~
+## 4 0001-10-20               21 PM2.5            Arlin~ Aurora Hills Vi~
+## 5 NA                       29 PM2.5            Arlin~ Aurora Hills Vi~
+## 6 NA                       18 PM2.5            Arlin~ Aurora Hills Vi~
+## # ... with 8 more variables: `Site ID (of Overall AQI)` &lt;chr&gt;, `Source (of
+## #   Overall AQI)` &lt;chr&gt;, Ozone &lt;chr&gt;, PM25 &lt;chr&gt;, CO &lt;chr&gt;, SO2 &lt;chr&gt;,
+## #   PM10 &lt;chr&gt;, NO2 &lt;chr&gt;</code></pre>
+<p>Next I adjusted the columns to tidy format (lowercase, minimal) and renamed <code>Overall AQI</code> to <code>aqi</code>.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># Rename Columns</span>
+<span class="kw">names</span>(df)</code></pre></div>
+<pre><code>##  [1] &quot;Date&quot;                       &quot;Overall AQI Value&quot;         
+##  [3] &quot;Main Pollutant&quot;             &quot;County&quot;                    
+##  [5] &quot;Site Name (of Overall AQI)&quot; &quot;Site ID (of Overall AQI)&quot;  
+##  [7] &quot;Source (of Overall AQI)&quot;    &quot;Ozone&quot;                     
+##  [9] &quot;PM25&quot;                       &quot;CO&quot;                        
+## [11] &quot;SO2&quot;                        &quot;PM10&quot;                      
+## [13] &quot;NO2&quot;</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">(<span class="kw">names</span>(df) &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;date&quot;</span>, <span class="st">&quot;aqi&quot;</span>, <span class="st">&quot;main_pollutant&quot;</span>,
+               <span class="st">&quot;county&quot;</span>, <span class="st">&quot;site_name&quot;</span>, <span class="st">&quot;site_id&quot;</span>,
+               <span class="st">&quot;source&quot;</span>, <span class="st">&quot;ozone&quot;</span>, <span class="st">&quot;pm25&quot;</span>, <span class="st">&quot;co&quot;</span>,
+               <span class="st">&quot;so2&quot;</span>, <span class="st">&quot;pm10&quot;</span>, <span class="st">&quot;no2&quot;</span>
+               ))</code></pre></div>
+<pre><code>##  [1] &quot;date&quot;           &quot;aqi&quot;            &quot;main_pollutant&quot; &quot;county&quot;        
+##  [5] &quot;site_name&quot;      &quot;site_id&quot;        &quot;source&quot;         &quot;ozone&quot;         
+##  [9] &quot;pm25&quot;           &quot;co&quot;             &quot;so2&quot;            &quot;pm10&quot;          
+## [13] &quot;no2&quot;</code></pre>
+<p>Before saving the .Rdata file I renamed the df variable to aqi_df so that when it was imported it would not replace another variable called df.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># rename variable</span>
+aqi_df &lt;-<span class="st"> </span>df
+
+<span class="co"># Save Workspace</span>
+<span class="co"># save(aqi_df, file = &quot;daily_aqi_and_pollutants.RData&quot;)</span></code></pre></div>
+<h3 id="merge-aqi-and-mobility-dataframes">Merge AQI and Mobility Dataframes</h3>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># Load .Rdata files</span>
+<span class="kw">load</span>(<span class="st">&quot;../Scripts/data/tidy/mobility.RData&quot;</span>)
+<span class="kw">load</span>(<span class="st">&quot;../Scripts/data/tidy/daily_aqi_and_pollutants.RData&quot;</span>)
+
+<span class="co"># Create mobility dataframe with selected values</span>
+mobility_df &lt;-<span class="st"> </span>all_selected_counties <span class="op">%&gt;%</span>
+<span class="st">  </span><span class="kw">select</span>(date, county, m50, m50_index)
+
+<span class="co"># Create aqi dataframe with selected values</span>
+aqi_df &lt;-<span class="st"> </span>aqi_df <span class="op">%&gt;%</span>
+<span class="st">  </span><span class="kw">filter</span>(date <span class="op">&gt;=</span><span class="st"> &quot;2020/03/01&quot;</span>) <span class="op">%&gt;%</span>
+<span class="st">  </span><span class="kw">select</span>(date, county, aqi, main_pollutant, ozone, pm25, co, so2, pm10, no2)
+
+<span class="co"># Combine dataframes together and match by date and county</span>
+df &lt;-<span class="st"> </span><span class="kw">merge</span>(mobility_df, aqi_df, <span class="dt">by =</span> <span class="kw">c</span>(<span class="st">&quot;date&quot;</span>, <span class="st">&quot;county&quot;</span>))</code></pre></div>
+<p>Next, I seperated the counties by mobility percentage as we did previously but this time with mobility and aqi values included. Finally, I saved it as a the final .Rdata file to use for our analyses.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># counties that decreased by &lt;30%</span>
+high_mobility &lt;-<span class="st"> </span>df[(df<span class="op">$</span>county <span class="op">%in%</span><span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;New York&quot;</span>, <span class="st">&quot;Arlington&quot;</span>, <span class="st">&quot;San Francisco&quot;</span>, <span class="st">&quot;Santa Clara&quot;</span>, <span class="st">&quot;District of Columbia&quot;</span>)), ]
+
+<span class="co"># counties that decreased by 98-100%</span>
+low_mobility &lt;-<span class="st"> </span>df[(df<span class="op">$</span>county <span class="op">%in%</span><span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;Miami-Dade&quot;</span>, <span class="st">&quot;Dallas&quot;</span>, <span class="st">&quot;Harris&quot;</span>, <span class="st">&quot;Maricopa&quot;</span>, <span class="st">&quot;San Bernardino&quot;</span>)), ]
+
+<span class="co"># save the final dataset to use for analysis</span>
+<span class="co"># save(df, low_mobility, high_mobility, file = &quot;data/tidy/tidy_mobility_vs_aqi.RData&quot;)</span>
+
+<span class="kw">head</span>(df)</code></pre></div>
+<pre><code>##         date               county   m50 m50_index aqi main_pollutant ozone pm25
+## 1 2020-03-01            Arlington 3.270        71  37          Ozone    37    .
+## 2 2020-03-01 District of Columbia 3.739       102  39          Ozone    39   26
+## 3 2020-03-01             Maricopa 5.387        62  44          Ozone    44   43
+## 4 2020-03-01           Miami-Dade 5.467        68  47          Ozone    47   30
+## 5 2020-03-01             New York 0.462        23  35          Ozone    35    .
+## 6 2020-03-01       San Bernardino 4.508        57  47          PM2.5    47   47
+##     co  so2 pm10  no2
+## 1 &lt;NA&gt; &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
+## 2 &lt;NA&gt; &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
+## 3    7    1   17   29
+## 4 &lt;NA&gt; &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
+## 5    2 &lt;NA&gt;    . &lt;NA&gt;
+## 6 &lt;NA&gt; &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">head</span>(high_mobility)</code></pre></div>
+<pre><code>##         date               county   m50 m50_index aqi main_pollutant ozone pm25
+## 1 2020-03-01            Arlington 3.270        71  37          Ozone    37    .
+## 2 2020-03-01 District of Columbia 3.739       102  39          Ozone    39   26
+## 5 2020-03-01             New York 0.462        23  35          Ozone    35    .
+## 7 2020-03-01        San Francisco 2.663        77  36          Ozone    36   20
+## 8 2020-03-01          Santa Clara 4.088        57  36          Ozone    36   29
+## 9 2020-03-02            Arlington 4.594       100  44          Ozone    44    .
+##     co  so2 pm10  no2
+## 1 &lt;NA&gt; &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
+## 2 &lt;NA&gt; &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
+## 5    2 &lt;NA&gt;    . &lt;NA&gt;
+## 7 &lt;NA&gt; &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
+## 8 &lt;NA&gt; &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
+## 9 &lt;NA&gt; &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">head</span>(low_mobility)</code></pre></div>
+<pre><code>##          date         county   m50 m50_index aqi main_pollutant ozone pm25   co
+## 3  2020-03-01       Maricopa 5.387        62  44          Ozone    44   43    7
+## 4  2020-03-01     Miami-Dade 5.467        68  47          Ozone    47   30 &lt;NA&gt;
+## 6  2020-03-01 San Bernardino 4.508        57  47          PM2.5    47   47 &lt;NA&gt;
+## 10 2020-03-02         Dallas 9.311       100  50          PM2.5    23   50 &lt;NA&gt;
+## 12 2020-03-02         Harris 8.717        97  48          PM2.5    37   48 &lt;NA&gt;
+## 13 2020-03-02       Maricopa 8.438        97  41          Ozone    41   26    5
+##     so2 pm10  no2
+## 3     1   17   29
+## 4  &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
+## 6  &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
+## 10 &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
+## 12 &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
+## 13    1   19   24</code></pre>
+
+</body>
+</html>

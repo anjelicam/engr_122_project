@@ -1,9 +1,9 @@
-AQI vs Mobility Project
+AQI vs Mobility Project: Data Analyses
 ================
 Anjelica Martinez, Joanna Rashid, Yousif Alnuaimi
 05/08/2020
 
--   [The Relationship Between Air Pollution and Mobility of Individuals Following](#the-relationship-between-air-pollution-and-mobility-of-individuals-following)
+-   [The Relationship Between Air Quality and Mobility of Individuals Following COVID-19 Related “Shelter-in-Place” Orders](#the-relationship-between-air-quality-and-mobility-of-individuals-following-covid-19-related-shelter-in-place-orders)
 -   [Exploratory Data Analyses](#exploratory-data-analyses)
 -   [Time Series Plots](#time-series-plots)
     -   [Mobility Over Time](#mobility-over-time)
@@ -23,8 +23,8 @@ libraries("gridExtra", "viridis", "tidyverse", "plotly",
           "hrbrthemes", "htmlwidgets", "ggpubr", "scales")
 ```
 
-The Relationship Between Air Pollution and Mobility of Individuals Following
-============================================================================
+The Relationship Between Air Quality and Mobility of Individuals Following COVID-19 Related “Shelter-in-Place” Orders
+=====================================================================================================================
 
 This notebook contains all the code we used to run our analyses. We used the following statistical tests and tools:
 

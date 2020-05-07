@@ -1,9 +1,10 @@
 ---
-title: "AQI vs Mobility Project"
+title: "AQI vs Mobility Project: Data Analyses"
 author: "Anjelica Martinez, Joanna Rashid, Yousif Alnuaimi"
 date: "05/08/2020"
 output: 
   github_document:
+    keep_html: true
     toc: true
 ---
 
@@ -18,7 +19,7 @@ libraries("gridExtra", "viridis", "tidyverse", "plotly",
           "hrbrthemes", "htmlwidgets", "ggpubr", "scales")
 ```
 
-# The Relationship Between Air Pollution and Mobility of Individuals Following
+# The Relationship Between Air Quality and Mobility of Individuals Following COVID-19 Related “Shelter-in-Place” Orders
 
 This notebook contains all the code we used to run our analyses. We used the following statistical tests and tools:
 

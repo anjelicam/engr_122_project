@@ -4,6 +4,7 @@ author: "Anjelica Martinez"
 date: "05/08/2020"
 output: 
   github_document:
+    keep_html: true
     toc: true
 ---
 
